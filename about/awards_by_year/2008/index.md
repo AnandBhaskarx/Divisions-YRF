@@ -1,0 +1,19 @@
+---
+year: 2008
+domain: about
+subdomain: awards_by_year
+entity: yash_raj_films
+content_type: index
+intended_use: rag_navigation
+confidence: high
+last_updated: 2026-01-20
+---
+
+# Awards – 2008
+
+## Films with Awards
+- **Rab Ne Bana Di Jodi**
+- **Roadside Romeo**
+- **Bachna Ae Haseeno**
+- **Thoda Pyaar Thoda Magic**
+- **Tashan**
