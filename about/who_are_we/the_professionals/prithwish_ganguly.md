@@ -17,7 +17,7 @@ Prithwish Ganguly – Vice President, Talent & Communications Strategy
 Role Overview
 Prithwish Ganguly leads Talent and Communications Strategy at :contentReference[oaicite:0]{index=0}, responsible for designing and executing disruptive communication strategies across YRF’s diverse business touchpoints. His scope spans films, talent and artists, Aditya Chopra’s Broadway musical *Come Fall in Love*, YRF Entertainment, and the Yash Chopra Foundation.
 
-Communications Leadership at YRF
+## Communications Leadership at YRF
 Prithwish joined YRF in 2017 as **General Manager – Communications** and steadily rose through the ranks to become **Vice President – Talent & Communications Strategy**. In this role, he partners closely with creative, business, and leadership teams to align communication strategy with YRF’s broader business objectives.
 
 Key responsibilities include:
@@ -28,7 +28,7 @@ Key responsibilities include:
 
 Under his leadership, YRF established an **in-house social media management division** dedicated to its Talent/Artists business.
 
-Professional Background
+## Professional Background
 Prithwish Ganguly brings over two decades of experience across media, journalism, and entertainment marketing.
 
 Media and Journalism
@@ -47,7 +47,7 @@ Prithwish later transitioned into Hindi film marketing, where he held leadership
 
 During this period, he delivered award-winning communication campaigns and spearheaded social media transformation initiatives through innovative digital marketing strategies.
 
-Strategic Value to YRF
+## Strategic Value to YRF
 Prithwish Ganguly’s effectiveness stems from:
 - A 360-degree understanding of mass media touchpoints in India  
 - Experience across both public and privately held organizations  
@@ -62,5 +62,6 @@ Education
 
 ## AI Usage Note
 This document is used to answer queries related to YRF’s talent strategy, communications leadership, media positioning, and integrated campaign execution. It supports explanations of how YRF manages public narrative and talent representation across its businesses.
+
 
 
