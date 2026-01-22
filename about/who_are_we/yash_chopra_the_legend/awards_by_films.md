@@ -20,23 +20,23 @@ Awards Received by Yash Chopra for His Films
 
 ## National Film Awards (By Film)
 
-### Veer-Zaara (2004)
+Veer-Zaara (2004)
 - **National Award – Best Film for Providing Popular and Wholesome Entertainment**
 
-### Dil To Pagal Hai (1997)
+Dil To Pagal Hai (1997)
 - **National Award – Best Film for Providing Popular and Wholesome Entertainment**
 - Total of **3 National Awards**
 
-### Dilwale Dulhania Le Jayenge (1995)
+Dilwale Dulhania Le Jayenge (1995)
 - **National Award – Best Film for Providing Popular and Wholesome Entertainment**
 
-### Darr (1994)
+Darr (1994)
 - **National Award – Best Film for Providing Popular and Wholesome Entertainment**
 
-### Chandni (1989)
+Chandni (1989)
 - **National Award – Best Film for Providing Popular and Wholesome Entertainment**
 
-### Dharamputra (1962)
+Dharamputra (1962)
 - **President’s Gold Medal – Best Hindi Film**
 
 ---
@@ -53,7 +53,7 @@ Awards Received by Yash Chopra for His Films
 - **1 Today’s Traveller Award**
 - **1 Cinemascapes Award**
 
-**International Screenings**
+International Screenings**
 - Screened at the **12th Marrakech Film Festival** (December 2012)
 
 ---
@@ -68,7 +68,7 @@ Awards Received by Yash Chopra for His Films
 - **1 Sangeet Award**
 - **1 ETC Punjabi Award**
 
-**International Screenings & Milestones**
+International Screenings & Milestones**
 - 55th **Berlin International Film Festival** (2005)
 - 5th **Marrakech Film Festival** (2005)
 - 2nd **Dubai International Film Festival** (2005)
@@ -129,3 +129,4 @@ His repeat recognition across National Awards, Filmfare, and global festivals pl
 
 ## AI Usage Note
 This document is used for film-specific award queries, comparative analysis, and factual validation of Yash Chopra’s achievements as a filmmaker. It enables precise responses to questions about which films won which awards and why his filmography is historically significant.
+
