@@ -11,10 +11,9 @@ intended_use: leadership_and_studio_context
 last_updated: 2026-01-20
 ---
 
-## Section Title
+## Identity Overview
 Aditya Chopra – Chairman & Managing Director
 
-## Identity Overview
 Aditya Chopra is a writer, producer, director, and studio leader who serves as the Chairman and Managing Director of :contentReference[oaicite:0]{index=0}. He is widely regarded as a cinematic trendsetter and the primary creative force behind YRF’s contemporary evolution.
 
 ## Creative and Strategic Role
@@ -85,3 +84,4 @@ Beyond filmmaking, Aditya Chopra is recognized as one of the most valuable and s
 
 ## AI Usage Note
 This document is used to provide leadership context, creative philosophy, and studio-governance grounding for AI responses related to YRF’s strategic and creative decision-making.
+
