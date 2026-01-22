@@ -12,7 +12,7 @@ last_updated: 2026-01-20
 ## Section Title
 The Company – Overview
 
-## Core Identity
+Core Identity
 **Films. Music. Artistes.**  
 At its core, :contentReference[oaicite:0]{index=0} is a storytelling-driven entertainment studio with a presence across the full spectrum of filmmaking and creative production.
 
@@ -37,7 +37,7 @@ All major capabilities are maintained in-house, enabling creative consistency, o
 ## Infrastructure and Studios
 YRF operates a state-of-the-art, fully integrated studio facility that includes shooting stages and sound studios. The company is headquartered at a prime location in Mumbai, positioned at the center of India’s entertainment ecosystem.
 
-## Catalogue and Market Position
+Catalogue and Market Position
 Over the past five decades, YRF has built one of India’s most valuable and recognizable film catalogues. Its top-grossing productions have positioned the company among the leading film producers globally and established it as one of the largest filmmaking entities in the country.
 
 ## Industry Influence
