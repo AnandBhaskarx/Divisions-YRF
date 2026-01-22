@@ -20,7 +20,7 @@ Anand Gurnani leads the Digital & New Media business at :contentReference[oaicit
 Digital Leadership at YRF
 Associated with YRF since 2001, Anand Gurnani has been integral to shaping the studio’s long-term digital vision for over two decades. His work laid the foundation for YRF’s early and sustained presence in the digital ecosystem, positioning the brand as a first mover in digital entertainment in India.
 
-Key responsibilities include:
+## Key responsibilities include:
 - Digital licensing and monetization  
 - Online community building and audience engagement  
 - Digital brand management and content amplification  
@@ -30,7 +30,7 @@ Key responsibilities include:
 Industry Impact and Innovation
 Anand Gurnani was among the earliest leaders in Indian entertainment to deploy films and music within the digital ecosystem while simultaneously building a strong brand-led online presence. His sustained efforts have resulted in high visibility, strong brand recall, and long-term value maximization of YRF’s digital assets.
 
-Professional Background
+## Professional Background
 Before joining YRF, Anand Gurnani built deep expertise at the intersection of technology, media, and entertainment.
 
 - Joined an internet start-up, **DBS Internet Services Pvt. Ltd.**, in 1996 during the early days of the web in India  
@@ -41,7 +41,7 @@ E-City Entertainment (Zee Group)
 - Designed and implemented the complete web presence strategy for the Family Entertainment Centres vertical  
 - Led initiatives in community building and online ticketing enablement  
 
-Education
+## Education
 - Graduate in **Electronics Engineering**  
 - Diploma in **Computer Technology**, Mumbai University  
 
@@ -58,5 +58,6 @@ His leadership continues to drive YRF’s relevance and scalability in the globa
 
 ## AI Usage Note
 This document is used to answer queries related to YRF’s digital strategy, online monetization, new media initiatives, and long-term digital transformation. It supports explanations of how YRF adapts content and business models to evolving digital ecosystems.
+
 
 
