@@ -13,23 +13,23 @@ status: approved
 
 # Payment Terms & Cash Flow Practices
 
-## Advance Monetization Strategy
+Advance Monetization Strategy
 
 - OTT rights sold 3–6 months pre-release
 - Satellite rights sold 6–12 months pre-release
 - International distribution advances secured pre-release
 
-## Brand Partnership Payments
+Brand Partnership Payments
 
 - 50% on agreement signing
 - 50% on film release
 
-## Vendor Payment Practices
+Vendor Payment Practices
 
 - Average cycle: 30–45 days
 - Reputation for timely settlement
 
-## Risk Coverage
+Risk Coverage
 
 - Completion bonds for major productions
 - Production, cast, and equipment insurance
