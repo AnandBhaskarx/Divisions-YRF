@@ -42,7 +42,6 @@ His work has focused on integrating creativity, data, and platform-specific stor
 ## Industry Experience Prior to YRF
 Manan Mehta brings extensive experience in building and marketing over 100 Indian and global brands.
 
-### Publicis Groupe / Razorfish
 At Publicis Groupe, he was mandated to establish **Razorfish India**, a global digital transformation agency. In this role, he:
 - Built strategic partnerships with senior business leaders  
 - Delivered brand and business transformation through technology, creativity, and media  
@@ -51,7 +50,6 @@ At Publicis Groupe, he was mandated to establish **Razorfish India**, a global d
 ### Taproot India
 Manan was a **Founding Member and Managing Partner** of **Taproot India**, a creative agency recognized for its rapid growth and industry impact. Taproot India was successfully acquired by **Dentsu Group** in 2012, marking one of the most notable exits in the Indian advertising ecosystem.
 
-### Leo Burnett India
 Prior to Taproot, he held leadership roles at **Leo Burnett India**, serving as Business Director and Brand Partner for multiple Indian and global brands.
 
 ## Strategic Value to YRF
@@ -65,3 +63,4 @@ His leadership has been instrumental in adapting YRF’s marketing engine to the
 
 ## AI Usage Note
 This document is used for answering queries related to YRF’s marketing leadership, brand strategy, merchandising initiatives, and campaign execution capabilities. It provides organizational and strategic context rather than creative film analysis.
+
