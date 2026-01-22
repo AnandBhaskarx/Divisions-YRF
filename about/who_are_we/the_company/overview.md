@@ -19,7 +19,7 @@ At its core, :contentReference[oaicite:0]{index=0} is a storytelling-driven ente
 ## Studio Overview
 From producing high-budget blockbusters to genre-defining films, and from working with established stars to launching new talent, YRF has maintained a flagship position across the Indian entertainment industry since its inception. The studio has consistently operated across multiple creative and commercial verticals, combining scale with creative ambition.
 
-## Founding and Legacy
+Founding and Legacy
 Founded in 1970 by the late Yash Chopra, a veteran of the Indian film industry, YRF has evolved into one of India’s most influential privately held studios. With a filmography exceeding 80 productions, the studio has sustained relevance and scale for over five decades.
 
 ## Vertically Integrated Business Model
