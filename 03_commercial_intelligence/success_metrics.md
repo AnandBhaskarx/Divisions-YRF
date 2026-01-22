@@ -13,16 +13,7 @@ status: approved
 
 # Success Metrics & Financial KPIs
 
-## Key Performance Indicators
-
-| Metric                | YRF      | Industry Avg |
-| --------------------- | -------- | ------------ |
-| Film Success Rate     | 70–75%   | 40–50%       |
-| Average ROI           | 2.5–3.5x | 2.0–3.0x     |
-| Debt-to-Equity        | 0.3–0.5  | 0.8–1.2      |
-| International Revenue | 25–30%   | 15–20%       |
-
-## Strategic Interpretation
+Strategic Interpretation
 
 - Higher predictability of returns
 - Lower financial risk exposure
