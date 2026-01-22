@@ -13,15 +13,10 @@ status: approved
 
 # YRF IP Licensing FAQs
 
-## Executive Summary
 
-This document addresses frequently asked questions about licensing YRF intellectual property, including film characters, franchises, music, and brand elements. Whether you're a manufacturer, retailer, game developer, or publisher, this FAQ will help you understand YRF's licensing framework.
+General Licensing Questions
 
----
-
-## General Licensing Questions
-
-### Q1: What exactly is IP licensing in the context of YRF?
+Q1: What exactly is IP licensing in the context of YRF?
 
 **IP Licensing means:** YRF grants you the right to use our intellectual property (characters, film titles, music, logos, imagery) to create and sell products or experiences, in exchange for fees and/or royalties.
 
@@ -49,7 +44,7 @@ This document addresses frequently asked questions about licensing YRF intellect
 
 ---
 
-### Q2: What's the difference between licensing and a brand partnership?
+ Q2: What's the difference between licensing and a brand partnership?
 
 **Key Differences:**
 
@@ -64,8 +59,7 @@ This document addresses frequently asked questions about licensing YRF intellect
 **Can you do both?** Yes! A brand partner can also become an IP licensee. Example: Apparel brand partners on a film AND licenses character designs for a clothing line.
 
 ---
-
-### Q3: How does YRF select licensing partners?
+Q3: How does YRF select licensing partners?
 
 **YRF Licensing Evaluation Criteria:**
 
@@ -117,7 +111,7 @@ This document addresses frequently asked questions about licensing YRF intellect
 
 ## Available IP and Categories
 
-### Q4: Which YRF properties are currently available for licensing?
+Q4: Which YRF properties are currently available for licensing?
 
 **High Priority IPs (Actively Seeking Licensees):**
 
@@ -164,7 +158,7 @@ This document addresses frequently asked questions about licensing YRF intellect
 
 ---
 
-### Q5: What product categories is YRF interested in licensing for?
+Q5: What product categories is YRF interested in licensing for?
 
 **Priority Categories (Actively Seeking Partners):**
 
@@ -237,7 +231,7 @@ This document addresses frequently asked questions about licensing YRF intellect
 
 ---
 
-### Q6: Can I license YRF music for my product/service?
+Q6: Can I license YRF music for my product/service?
 
 **Yes! YRF Music licensing is a separate but important licensing vertical.**
 
@@ -294,8 +288,7 @@ This document addresses frequently asked questions about licensing YRF intellect
 ---
 
 ## Commercial Terms and Agreements
-
-### Q7: What is a Minimum Guarantee (MG) and why is it required?
+Q7: What is a Minimum Guarantee (MG) and why is it required?
 
 **Minimum Guarantee (MG) Definition:**
 
@@ -345,7 +338,7 @@ The MG is an **upfront payment** that guarantees YRF will receive at least a cer
 
 ---
 
-### Q8: How are royalty rates determined?
+Q8: How are royalty rates determined?
 
 **Royalty Rate Factors:**
 
@@ -401,7 +394,7 @@ The MG is an **upfront payment** that guarantees YRF will receive at least a cer
 
 ---
 
-### Q9: What does "category exclusivity" mean in licensing?
+Q9: What does "category exclusivity" mean in licensing?
 
 **Category Exclusivity Definition:**
 
@@ -460,7 +453,7 @@ When YRF grants you category exclusivity, we agree NOT to license the same IP to
 
 ---
 
-### Q10: Can I sub-license the IP to third parties?
+Q10: Can I sub-license the IP to third parties?
 
 **Generally, NO. Sub-licensing is typically restricted.**
 
@@ -515,7 +508,7 @@ When YRF grants you category exclusivity, we agree NOT to license the same IP to
 
 ## Product Development and Approval
 
-### Q11: What approval process do licensed products go through?
+Q11: What approval process do licensed products go through?
 
 **YRF Quality Control & Approval Process:**
 
@@ -596,7 +589,7 @@ When YRF grants you category exclusivity, we agree NOT to license the same IP to
 
 ---
 
-### Q12: Can I use talent likenesses in licensed products?
+ Q12: Can I use talent likenesses in licensed products?
 
 **Talent Likeness = Tricky Area. Requires Separate Clearance.**
 
@@ -667,7 +660,7 @@ When YRF grants you category exclusivity, we agree NOT to license the same IP to
 
 ## International and Territory Questions
 
-### Q13: Can I license YRF IP for markets outside India?
+Q13: Can I license YRF IP for markets outside India?
 
 **Yes! YRF welcomes international licensing partners.**
 
@@ -747,7 +740,7 @@ When YRF grants you category exclusivity, we agree NOT to license the same IP to
 
 ---
 
-### Q14: Are there different licensing terms for different territories?
+Q14: Are there different licensing terms for different territories?
 
 **Yes, terms can vary by territory:**
 
@@ -809,7 +802,7 @@ Some licensees secure **Territory A** rights initially, with **option to expand*
 
 ## Legal and Compliance
 
-### Q15: What happens if I breach the licensing agreement?
+ Q15: What happens if I breach the licensing agreement?
 
 **Breach = Failure to comply with agreement terms**
 
@@ -903,7 +896,7 @@ Some licensees secure **Territory A** rights initially, with **option to expand*
 
 ---
 
-### Q16: How does YRF protect against counterfeit products?
+Q16: How does YRF protect against counterfeit products?
 
 **YRF takes IP protection seriously.**
 
@@ -972,7 +965,7 @@ Some licensees secure **Territory A** rights initially, with **option to expand*
 
 ## Renewal and Expansion
 
-### Q17: Can I renew my license agreement?
+Q17: Can I renew my license agreement?
 
 **Yes! Renewal is typically available for performing licensees.**
 
@@ -1138,7 +1131,7 @@ Some licensees secure **Territory A** rights initially, with **option to expand*
 
 ## Special Situations
 
-### Q19: What if the talent/actor in a film has restrictions on merchandising?
+Q19: What if the talent/actor in a film has restrictions on merchandising?
 
 **Talent Restrictions = Common Complication**
 
