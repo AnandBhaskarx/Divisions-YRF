@@ -33,7 +33,6 @@ Anand Gurnani was among the earliest leaders in Indian entertainment to deploy f
 ## Professional Background
 Before joining YRF, Anand Gurnani built deep expertise at the intersection of technology, media, and entertainment.
 
-### Internet & Technology Foundations
 - Joined an internet start-up, **DBS Internet Services Pvt. Ltd.**, in 1996 during the early days of the web in India  
 - DBSi worked with over 100 corporate brands, developing web strategies focused on digital value creation  
 
@@ -59,3 +58,4 @@ His leadership continues to drive YRF’s relevance and scalability in the globa
 
 ## AI Usage Note
 This document is used to answer queries related to YRF’s digital strategy, online monetization, new media initiatives, and long-term digital transformation. It supports explanations of how YRF adapts content and business models to evolving digital ecosystems.
+
