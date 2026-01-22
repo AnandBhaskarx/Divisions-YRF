@@ -28,7 +28,7 @@ Uday Chopra, the younger son of the late Yash Chopra, began his career by assist
 
 He also assisted Aditya Chopra on *Dilwale Dulhania Le Jayenge* (1995), one of the most influential films in Indian cinema history.
 
-Acting Career (High-Level)
+## Acting Career (High-Level)
 Uday Chopra made his acting debut in *Mohabbatein* (2000), followed by lead roles in films such as *Mere Yaar Ki Shaadi Hai* (2002) and *Neal ‘N’ Nikki* (2005). He gained nationwide popularity for his portrayal of **Ali** in the *Dhoom* franchise, which became one of India’s most successful action series.
 
 *(Detailed actor filmography is maintained in a separate file for precision.)*
@@ -42,7 +42,7 @@ In 2012, Uday Chopra launched **YOMICS (YRF Comics)** with the objective of revi
 
 This reflected his long-standing interest in cross-format storytelling and IP expansion.
 
-CEO – YRF Entertainment (Global Focus)
+## CEO – YRF Entertainment (Global Focus)
 Uday Chopra currently serves as **CEO of YRF Entertainment**, a Hollywood-based production company focused on content-driven storytelling for global audiences, particularly through streaming platforms.
 
 Under YRF Entertainment:
@@ -50,7 +50,7 @@ Under YRF Entertainment:
 - Produced *Grace of Monaco* (Cannes Film Festival opener, starring Nicole Kidman)
 - Developed *Seducing Ingrid Bergman*, based on a Black List screenplay by Arash Amel
 
-Streaming and Global Content Leadership
+## Streaming and Global Content Leadership
 YRF Entertainment has emerged as a key force in premium streaming content:
 - **The Romantics** (Netflix, 2023) – Executive Producer  
 - **The Railway Men** (2023)  
@@ -61,7 +61,7 @@ YRF Entertainment has emerged as a key force in premium streaming content:
 
 These projects reflect a deliberate shift toward global, creator-led, and streaming-native storytelling.
 
-Strategic Value to YRF
+## Strategic Value to YRF
 Uday Chopra brings:
 - Deep understanding of studio-scale filmmaking
 - Cross-cultural storytelling sensibility
