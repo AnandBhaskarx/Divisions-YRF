@@ -12,7 +12,7 @@ last_updated: 2026-01-20
 ## Section Title
 The Professionals – Leadership & Senior Management
 
-## Overview
+Overview
 :contentReference[oaicite:0]{index=0} operates through a professionally managed leadership structure that combines hands-on creative control with independent operational ownership. The organization’s professional culture is shaped by strong leadership, domain-specific expertise, and long-term institutional loyalty.
 
 ## Leadership Philosophy
@@ -22,37 +22,37 @@ While each professional functions independently within their domain, their colle
 
 ## Executive Leadership
 
-### Chairman & Managing Director
+Chairman & Managing Director
 - **Aditya Chopra**  
   Oversees all creative decisions, studio governance, and long-term business strategy.
 
-### Chief Executive Officer
+Chief Executive Officer
 - **Akshaye Widhani**  
   **CEO – Yash Raj Films**  
   
 
-## Senior Management Team
+Senior Management Team
 
-### Marketing & Merchandising
+Marketing & Merchandising
 - **Manan Mehta**  
   **Senior Vice President – Marketing & Merchandising**  
  
-### Digital & New Media
+## Digital & New Media
 - **Anand Gurnani**  
   **Vice President – Digital & New Media**  
   
 
-### Domestic Distribution
+Domestic Distribution
 - **Rohan Malhotra**  
   **Vice President – Distribution**  
   
 
-### International Distribution
+International Distribution
 - **Nelson D’Souza**  
   **Vice President – International Distribution**  
   
 
-### Talent & Communications Strategy
+Talent & Communications Strategy
 - **Prithwish Ganguly**  
   **Vice President – Talent & Communications Strategy**  
   
