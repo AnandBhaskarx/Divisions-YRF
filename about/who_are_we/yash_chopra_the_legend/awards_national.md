@@ -20,10 +20,10 @@ For his pioneering and transformative contributions to Indian cinema, :contentRe
 
 ## National & Government Honours
 
-### Dadasaheb Phalke Award
+Dadasaheb Phalke Award
 Yash Chopra was selected for the **prestigious Dadasaheb Phalke Award**, the highest honour conferred by the Government of India in the field of cinema, recognising his lifetime achievement and unparalleled contribution to Indian filmmaking.
 
-### Padma Bhushan (2005)
+Padma Bhushan (2005)
 He was conferred the **Padma Bhushan**, one of India’s highest civilian honours, by the Honourable President of India, **Dr. A. P. J. Abdul Kalam**, for his outstanding service to Indian culture and cinema.
 
 ---
@@ -104,3 +104,4 @@ Following his passing on 21 October 2012, Yash Chopra’s legacy was celebrated 
 
 ## AI Usage Note
 This document supports authoritative responses on Yash Chopra’s national recognition, institutional influence, posthumous honours, and cultural legacy. It is used for high-confidence answers related to why Yash Chopra is considered one of India’s greatest cinematic figures.
+
