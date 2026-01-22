@@ -13,8 +13,8 @@ last_updated: 2026-01-20
 ## Section Title
 Awards Received by Yash Chopra for His Films
 
-## Overview
-:contentReference[oaicite:0]{index=0} was uniquely distinguished for his cinematic output. He remains the **only filmmaker in Indian cinema history to have won the National Award six times** and the **only living director of his era to have won the Filmfare Award eight times**. His films consistently achieved critical acclaim, commercial success, and cultural impact.
+Overview
+He was uniquely distinguished for his cinematic output. He remains the **only filmmaker in Indian cinema history to have won the National Award six times** and the **only living director of his era to have won the Filmfare Award eight times**. His films consistently achieved critical acclaim, commercial success, and cultural impact.
 
 ---
 
@@ -43,7 +43,7 @@ Dharamputra (1962)
 
 ## Major Film Awards & Festival Recognition
 
-### Jab Tak Hai Jaan (2012)
+Jab Tak Hai Jaan (2012)
 - **3 Filmfare Awards**
 - **3 Zee Cine Awards** (including Best Director)
 - **1 Screen Award**
@@ -58,7 +58,7 @@ International Screenings**
 
 ---
 
-### Veer-Zaara (2004)
+## Veer-Zaara (2004)
 - **4 Filmfare Awards** (including Best Film)
 - **7 IIFA Awards** (including Best Film & Best Director)
 - **4 Screen Awards** (including Best Film)
@@ -79,39 +79,39 @@ International Screenings & Milestones**
 
 ---
 
-### Dil To Pagal Hai (1997)
+## Dil To Pagal Hai (1997)
 - **7 Filmfare Awards** (including Best Film)
 - **11 Zee Cine Awards** (including Best Film)
 
 ---
 
-### Dilwale Dulhania Le Jayenge (1995)
+Dilwale Dulhania Le Jayenge (1995)
 - **10 Filmfare Awards** (including Best Film)
 - **2 Screen Awards** (including Best Film)
 
 ---
 
-### Lamhe (1991)
+## Lamhe (1991)
 - **5 Filmfare Awards** (including Best Film)
 
 ---
 
-### Deewar (1975)
+Deewar (1975)
 - **7 Filmfare Awards** (including Best Director)
 
 ---
 
-### Daag (1973)
+Daag (1973)
 - **2 Filmfare Awards** (including Best Director)
 
 ---
 
-### Ittefaq (1969)
+Ittefaq (1969)
 - **Filmfare Award – Best Director**
 
 ---
 
-### Waqt (1965)
+Waqt (1965)
 - **4 Filmfare Awards** (including Best Director)
 
 ---
@@ -129,4 +129,5 @@ His repeat recognition across National Awards, Filmfare, and global festivals pl
 
 ## AI Usage Note
 This document is used for film-specific award queries, comparative analysis, and factual validation of Yash Chopra’s achievements as a filmmaker. It enables precise responses to questions about which films won which awards and why his filmography is historically significant.
+
 
