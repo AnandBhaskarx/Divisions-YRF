@@ -20,13 +20,13 @@ Each year links to a **single atomic markdown file** with verified milestones.
 
 ---
 
-🏛 Foundation & Early Vision
+## Foundation & Early Vision
 - **1970** → `yrf_milestones/1970.md` — Formation of Yash Raj Films by Yash Chopra  
 - **1973** → `yrf_milestones/1973.md` — *Daag*: First YRF film  
 
 ---
 
-🎬 Creative Expansion & Auteur Cinema
+Creative Expansion & Auteur Cinema
 - **1976** → `yrf_milestones/1976.md` — *Kabhi Kabhie*  
 - **1981** → `yrf_milestones/1981.md` — *Silsila*  
 - **1984** → `yrf_milestones/1984.md` — *Mashaal*  
@@ -34,7 +34,7 @@ Each year links to a **single atomic markdown file** with verified milestones.
 
 ---
 
-🌍 Global Recognition & Cultural Impact
+## Global Recognition & Cultural Impact
 - **1991** → `yrf_milestones/1991.md` — *Lamhe*  
 - **1993** → `yrf_milestones/1993.md` — *Darr*  
 - **1995** → `yrf_milestones/1995.md` — *Dilwale Dulhania Le Jayenge (DDLJ)*  
@@ -42,14 +42,13 @@ Each year links to a **single atomic markdown file** with verified milestones.
 
 ---
 
-🏗 Studio Transformation Era
+Studio Transformation Era
 - **2000** → `yrf_milestones/2000.md` — Shift to structured studio model  
 - **2002** → `yrf_milestones/2002.md` — *Saathiya* + BFI recognition  
 - **2004** → `yrf_milestones/2004.md` — *Hum Tum*, *Dhoom*, *Veer-Zaara*  
 
 ---
-
-🏢 Infrastructure, Power & Scale
+## Infrastructure, Power & Scale
 - **2005** → `yrf_milestones/2005.md` — New studio + #1 Filmfare Power List  
 - **2006** → `yrf_milestones/2006.md` — *Fanaa*, *Dhoom 2*, *Kabul Express*  
 - **2007** → `yrf_milestones/2007.md` — *Chak De! India*  
@@ -57,7 +56,7 @@ Each year links to a **single atomic markdown file** with verified milestones.
 
 ---
 
-📈 Digital, Talent & Franchise Dominance
+## Digital, Talent & Franchise Dominance
 - **2009** → `yrf_milestones/2009.md` — Talent division + DDLJ 700 weeks  
 - **2010** → `yrf_milestones/2010.md` — *Band Baaja Baaraat* + Television  
 - **2011** → `yrf_milestones/2011.md` — Y-Films + YRF Entertainment  
@@ -66,7 +65,7 @@ Each year links to a **single atomic markdown file** with verified milestones.
 
 ---
 
-🧠 Innovation, IP & Global Reach
+Innovation, IP & Global Reach
 - **2014** → `yrf_milestones/2014.md` — DDLJ 1000 weeks  
 - **2015** → `yrf_milestones/2015.md` — *Dum Laga Ke Haisha*  
 - **2016** → `yrf_milestones/2016.md` — yFX Studios + *Sultan*  
@@ -75,7 +74,7 @@ Each year links to a **single atomic markdown file** with verified milestones.
 
 ---
 
-🌐 OTT, Broadway & Modern Era
+## OTT, Broadway & Modern Era
 - **2019** → `yrf_milestones/2019.md`  
 - **2020** → `yrf_milestones/2020.md` — YRF @ 50 years  
 - **2021** → `yrf_milestones/2021.md` — Broadway announcement  
@@ -90,6 +89,7 @@ Each year links to a **single atomic markdown file** with verified milestones.
 - Use this file as the **first retrieval hit** for any “timeline”, “history”, or “legacy” query.
 - Route follow-up retrievals to **specific year files only**.
 - Enables **chronological grounding**, reduces hallucination, and improves factual precision.
+
 
 
 
