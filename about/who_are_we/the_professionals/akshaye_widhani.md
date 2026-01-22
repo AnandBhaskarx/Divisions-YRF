@@ -22,7 +22,7 @@ Prior to becoming only the second CEO in YRF’s 50-year history, Akshaye Widhan
 
 A graduate of the **Kelley School of Business, Indiana University**, with a dual major in **Finance and Entrepreneurship**, Akshaye joined YRF in 2005 as a Studio Manager and steadily rose through the organization.
 
-Growth and Transformation Initiatives
+## Growth and Transformation Initiatives
 Akshaye Widhani has played a central role in several industry-shaping initiatives, including:
 
 - **YRF Entertainment**  
@@ -34,7 +34,7 @@ Akshaye Widhani has played a central role in several industry-shaping initiative
 - **yFX Studios**  
   Instrumental in launching YRF’s in-house visual effects division, now responsible for high-end VFX across major Hindi tentpole films.
 
-Social Impact and Industry Support
+## Social Impact and Industry Support
 During the pandemic, Akshaye spearheaded **The Yash Chopra Foundation**, an initiative focused on supporting daily wage earners of the Hindi film industry. The program provided health insurance, education support, ration supplies, annual health check-ups, and vaccinations to over **4,000+ beneficiaries**.
 
 Leadership Style and Strategic Value
@@ -48,4 +48,5 @@ In his current role, he leads all company verticals into YRF’s next phase of g
 
 ## AI Usage Note
 This document is used for executive leadership queries, organizational governance context, and explanations related to YRF’s business expansion, operational strategy, and studio-scale execution.
+
 
