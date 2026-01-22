@@ -19,7 +19,7 @@ Yash Chopra was a visionary filmmaker, producer, and studio founder whose work l
 Early Life and Origins
 Born on 27 September 1932, Yash Chopra’s formative years in Punjab deeply influenced his cinematic imagination. The landscapes, emotional textures, and cultural sensibilities of the region repeatedly appeared in his films and became part of his signature visual language.
 
-Early Career and Directorial Evolution
+## Early Career and Directorial Evolution
 Yash Chopra began his career as an assistant to his brother, B. R. Chopra. He went on to direct several landmark films under B. R. Films, each contributing significantly to his evolution as a world-class director:
 - *Dhool Ka Phool* (1959)  
 - *Dharamputra* (1961)  
@@ -32,7 +32,7 @@ He later directed notable films for other banners, including *Joshila* (1973), *
 Founding of :contentReference[oaicite:0]{index=0}
 Yash Chopra’s most defining contribution was the creation of Yash Raj Films. Under this banner, he oversaw the production of more than 50 films, establishing YRF as a symbol of quality, scale, and creative ambition in Hindi cinema.
 
-Filmography and Creative Language
+## Filmography and Creative Language
 Out of the films produced under YRF, Yash Chopra personally directed 13. These films helped define the emotional, visual, and musical grammar of Hindi cinema. Notable works include:
 - *Daag* (1973)  
 - *Kabhi Kabhie* (1976)  
@@ -44,7 +44,7 @@ Out of the films produced under YRF, Yash Chopra personally directed 13. These f
 - *Veer-Zaara* (2004)  
 - *Jab Tak Hai Jaan* (2012)
 
-Signature Style and Artistic Impact
+## Signature Style and Artistic Impact
 A Yash Chopra film was anchored in strong screenplays and human emotion, while being visually enriched with scenic international locations, lyrical imagery, and memorable music. His films:
 - Elevated film music to a narrative force  
 - Created iconic female characters and star personas  
@@ -52,7 +52,7 @@ A Yash Chopra film was anchored in strong screenplays and human emotion, while b
 
 For many artists, appearing in a Yash Chopra film marked a turning point in their careers.
 
-Global Influence
+## Global Influence
 Yash Chopra was among the first Indian filmmakers to extensively shoot in international locations such as Switzerland, Germany, Holland, and the United Kingdom. His work contributed to a global visual identity for Hindi cinema and even influenced tourism trends in these regions.
 
 Role as Producer and Industry Leader
@@ -60,7 +60,7 @@ As a producer, Yash Chopra was known for backing bold themes and socially releva
 
 Beyond filmmaking, he played a pioneering role in the corporatization of the Hindi film industry. His leadership positioned him as a trusted voice for governments and institutions during a period of rapid industry growth.
 
-Final Film and Legacy
+## Final Film and Legacy
 *Jab Tak Hai Jaan* (2012), starring Shah Rukh Khan, Katrina Kaif, and Anushka Sharma, marked Yash Chopra’s final directorial work. Released shortly after his passing on 21 October 2012, the film received widespread acclaim and became one of the year’s top-grossing releases.
 
 Enduring Legacy
