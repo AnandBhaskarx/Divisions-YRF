@@ -1,0 +1,2 @@
+groq
+psycopg2-binary
