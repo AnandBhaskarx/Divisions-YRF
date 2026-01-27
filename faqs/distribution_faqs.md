@@ -11,7 +11,7 @@ version: 1.0
 status: approved
 ---
 
-# YRF Distribution FAQs
+## YRF Distribution FAQs
 
 
 Q1: Does YRF distribute its own films?

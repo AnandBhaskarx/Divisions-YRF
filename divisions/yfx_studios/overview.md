@@ -9,7 +9,7 @@ intended_use: studio_identity
 last_updated: 2026-01-20
 ---
 
-## yFX
+## yfx studios
 
 Division Identity
 yFX is the visual effects facility of Yash Raj Films, established in 2016 at YRF Studios. The division was founded by a core group of experienced, award-winning VFX supervisors, technical directors, and artists to serve as a fully integrated creative and technical partner for filmmakers.

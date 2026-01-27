@@ -20,13 +20,7 @@ YRF Studios is a premier, fully integrated film facility built to international 
 
 ## Sound Stage Specifications
 
-The facility houses three primary sound stages, each equipped with a lighting grid, catwalk, 200 KW power, and self-levelled Mastek floors.
-
-| Stage        | Dimensions (L x W x H) | Technical Features                       |
-| :----------- | :--------------------- | :--------------------------------------- |
-| **Stage 01** | 142' x 80' x 29'       | Lighting Grid, Catwalk, AC, 200 KW Power |
-| **Stage 02** | 110' x 70' x 25'       | Lighting Grid, Catwalk, AC, 200 KW Power |
-| **Stage 03** | 110' x 60' x 25'       | Lighting Grid, Catwalk, AC, 200 KW Power |
+The facility houses three primary sound stages, each equipped with a lighting grid, catwalk, 200 KW power, and self-levelled Mastek floors. Stage 01 measures 142 feet by 80 feet by 29 feet and features a lighting grid, catwalk, air conditioning, and 200 KW power. Stage 02 measures 110 feet by 70 feet by 25 feet with the same technical features. Stage 03 measures 110 feet by 60 feet by 25 feet and also includes a lighting grid, catwalk, air conditioning, and 200 KW power.
 
 Audio Wing and Post-Production
 The Audio Wing houses advanced audio recording and post-production tools. It is staffed by an award-winning team of technicians providing industry-leading services to film and multimedia producers.

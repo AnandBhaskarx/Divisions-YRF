@@ -11,7 +11,7 @@ version: 1.0
 status: approved
 ---
 
-# Submission Process FAQs
+## Submission Process FAQs
 
 Q1: Does YRF accept unsolicited submissions?
 

@@ -9,8 +9,6 @@ intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
 
-## Section Title
-Anti-Piracy – Reporting and Compliance
 
 ## Overview
 Yash Raj Films (YRF) actively encourages fans and partners to assist in curbing movie and music piracy worldwide. The studio utilizes advanced technology—such as unique watermarking—to track illegal recordings back to specific dates, times, and theater locations.

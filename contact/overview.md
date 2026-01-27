@@ -10,7 +10,7 @@ last_updated: 2026-01-21
 ---
 
 
-##YRF Global Offices – Contact Information
+## YRF Global Offices – Contact Information
 
  Global Presence
 Yash Raj Films manages its global reach through five primary international offices.

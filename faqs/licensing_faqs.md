@@ -11,7 +11,7 @@ version: 1.0
 status: approved
 ---
 
-# YRF IP Licensing FAQs
+## YRF IP Licensing FAQs
 
 
 General Licensing Questions
@@ -48,13 +48,7 @@ Q1: What exactly is IP licensing in the context of YRF?
 
 **Key Differences:**
 
-| Aspect            | IP Licensing                                         | Brand Partnership                                 |
-| ----------------- | ---------------------------------------------------- | ------------------------------------------------- |
-| **What You Get**  | Right to use IP on products you manufacture and sell | Brand visibility within YRF film/campaign         |
-| **Revenue Model** | You pay YRF (MG + royalties)                         | You pay YRF (partnership fee) OR joint investment |
-| **Timeline**      | 3-5 year agreements, ongoing                         | Film-specific (6-12 months typically)             |
-| **Your Product**  | You create products using YRF IP                     | Your existing product appears in film             |
-| **Examples**      | Action figures, apparel, mobile games                | Car brand in film, fashion brand integration      |
+IP Licensing grants you the right to use YRF's intellectual property on products you manufacture and sell, with a revenue model where you pay YRF a minimum guarantee plus royalties, typically under 3-5 year ongoing agreements. In contrast, brand partnerships provide brand visibility within YRF films or campaigns, with revenue models involving partnership fees or joint investments, usually for film-specific timelines of 6-12 months. With licensing, you create products using YRF IP, such as action figures, apparel, or mobile games, while partnerships involve your existing product appearing in films, like car brands or fashion integrations.
 
 **Can you do both?** Yes! A brand partner can also become an IP licensee. Example: Apparel brand partners on a film AND licenses character designs for a clothing line.
 

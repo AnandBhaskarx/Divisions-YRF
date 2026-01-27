@@ -15,7 +15,7 @@ version: 1.0
 status: approved
 ---
 
-# YRF Crisis Management & Contingency Framework
+## YRF Crisis Management & Contingency Framework
 
 Executive Summary
 YRF maintains structured crisis response protocols to manage production disruptions, safety incidents, and unforeseen operational risks.
@@ -80,7 +80,7 @@ Continuous Improvement
 - Workflow optimization updates
 
 
-# YRF Studio Infrastructure & Facilities
+## YRF Studio Infrastructure & Facilities
 
 Executive Summary
 
@@ -122,7 +122,7 @@ External Utilization Policy
 - YRF supervision mandatory
 - Proof of insurance required
 
-# YRF Technical Capabilities
+## YRF Technical Capabilities
 
 Executive Summary
 
@@ -186,5 +186,3 @@ Evaluation & Renewal
 - Cost and delivery assessment
 - Compliance review
 
-## AI Usage Note
-This document supports risk and contingency explanations without exposing security-sensitive details.

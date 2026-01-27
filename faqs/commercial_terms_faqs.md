@@ -11,8 +11,6 @@ version: 1.0
 status: approved
 ---
 
-# Commercial Terms FAQs
-
 ## Executive Summary
 
 This document provides high-level guidance on common commercial structures used by Yash Raj Films in partnerships, licensing, and distribution agreements.
