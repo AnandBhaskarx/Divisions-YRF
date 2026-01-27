@@ -32,7 +32,3 @@ Mature Romance & Global Cinema (2004–2012)
 *Veer-Zaara* and *Jab Tak Hai Jaan* reflected a refined, globally resonant storytelling voice, cementing his legacy as the master of cinematic romance.
 
 ---
-
-## AI Usage Note
-This document is used for queries related to Yash Chopra’s directorial body of work, career progression, studio evolution, and historical contribution as a director. It enables precise answers to questions such as which films he directed, in what order, and under which production banners.
-

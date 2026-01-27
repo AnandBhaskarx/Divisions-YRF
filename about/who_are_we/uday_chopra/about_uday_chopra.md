@@ -1,10 +1,6 @@
 ---
 domain: about
-subdomain: leadership_profile
-person: uday_chopra
-roles:
-  - director_yrf
-  - ceo_yrf_entertainment
+subdomain: leadership_profile_uday_chopra
 entity: yash_raj_films
 source: public
 confidence: high
