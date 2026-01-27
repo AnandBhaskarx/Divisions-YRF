@@ -1,3 +1,4 @@
+---
 domain: awards
 subdomain: films
 entity_type: movies_and_people
