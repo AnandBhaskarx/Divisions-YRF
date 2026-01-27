@@ -10,11 +10,9 @@ content_type: biographical+strategic
 intended_use: executive_leadership_context
 last_updated: 2026-01-20
 ---
-## Akshaye Widhani
-Section Title
-Akshaye Widhani – Chief Executive Officer
+## Akshaye Widhani - overview 
 
-Role Overview
+Akshaye Widhani – Chief Executive Officer
 As Chief Executive Officer of Yash Raj Films, Akshaye Widhani leads the operational, financial, and strategic execution of India’s foremost film studio. His mandate includes strengthening top-line growth, driving global expansion, and scaling YRF’s business across traditional and emerging media formats.
 
 Leadership Background

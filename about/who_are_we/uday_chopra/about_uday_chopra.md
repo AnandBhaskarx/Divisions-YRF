@@ -12,14 +12,12 @@ content_type: biographical+strategic
 intended_use: leadership_and_global_strategy_context
 last_updated: 2026-01-20
 ---
-## About Uday Chopra
-Section Title
+## About Uday Chopra - overview
 Uday Chopra – Director, YRF | CEO, YRF Entertainment
 
-Identity Overview
-Uday Chopra is a director, producer, technophile, and global content executive who plays a key role in extending :contentReference[oaicite:0]{index=0} beyond Indian cinema into international and streaming-led storytelling.
+Uday Chopra is a director, producer, technophile, and global content executive who plays a key role in extending Yashraj Films beyond Indian cinema into international and streaming-led storytelling.
 
-Early Career and Creative Foundations
+## Early Career and Creative Foundations
 Uday Chopra, the younger son of the late Yash Chopra, began his career by assisting on several landmark films, gaining early exposure to large-scale filmmaking and studio operations. His assistant director credits include:
 - *Lamhe* (1991)
 - *Parampara* (1993)

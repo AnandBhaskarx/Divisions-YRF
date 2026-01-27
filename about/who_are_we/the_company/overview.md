@@ -9,8 +9,7 @@ intended_use: studio_identity
 last_updated: 2026-01-20
 ---
 
-## Section Title
-The Company – Overview
+## The Company – Overview
 
 Core Identity
 **Films. Music. Artistes.**  

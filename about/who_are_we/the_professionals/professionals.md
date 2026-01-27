@@ -9,10 +9,7 @@ intended_use: leadership_and_operations_context
 last_updated: 2026-01-20
 ---
 
-## Section Title
-The Professionals – Leadership & Senior Management
-
-Overview
+## The Professionals – Leadership & Senior Management
 Yash Raj Films operates through a professionally managed leadership structure that combines hands-on creative control with independent operational ownership. The organization’s professional culture is shaped by strong leadership, domain-specific expertise, and long-term institutional loyalty.
 
 ## Leadership Philosophy

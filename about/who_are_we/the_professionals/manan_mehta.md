@@ -11,10 +11,9 @@ intended_use: marketing_and_brand_strategy_context
 last_updated: 2026-01-20
 ---
 ## Manan Mehta
-Section Title
+Section Title - overview
 Manan Mehta – Senior Vice President, Marketing & Merchandising
 
-Role Overview
 Manan Mehta leads marketing and merchandising for Yash Raj Films, spearheading brand strategy across corporate identity, business verticals, feature films, and digital content. He plays a critical role in ensuring visibility, audience reach, and cultural relevance for YRF’s slate in a rapidly evolving digital-first entertainment landscape.
 
 ## Responsibilities and Scope

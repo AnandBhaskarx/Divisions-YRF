@@ -10,11 +10,9 @@ content_type: biographical+strategic
 intended_use: distribution_and_release_strategy_context
 last_updated: 2026-01-20
 ---
-## RohanMalhotra
-Section Title
+## RohanMalhotra - overview
 Rohan Malhotra – Vice President, Distribution
 
-Role Overview
 Rohan Malhotra serves as Vice President – Distribution at Yash Raj Films, leading the studio’s theatrical distribution business across India, Nepal, and Bhutan. He is responsible for end-to-end domestic release strategy, market positioning, and box-office performance management.
 
 ## Distribution Leadership at YRF
@@ -48,6 +46,5 @@ Rohan Malhotra brings:
 - Alignment between creative output and commercial execution  
 
 His leadership ensures disciplined, market-aware distribution strategies that support YRF’s studio-scale releases.
-
 
 

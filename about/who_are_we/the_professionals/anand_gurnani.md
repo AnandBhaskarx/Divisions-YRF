@@ -10,11 +10,9 @@ content_type: biographical+strategic
 intended_use: digital_strategy_and_new_media_context
 last_updated: 2026-01-20
 ---
-## Anand Gurnani
-Section Title
+## Anand Gurnani - overview
 Anand Gurnani – Vice President, Digital & New Media
 
-Role Overview
 Anand Gurnani leads the Digital & New Media business at Yash Raj Films, overseeing global digital strategy, monetization, and emerging revenue streams across internet, mobile, and new media platforms. He spearheads digital innovation initiatives and strategic alliances to amplify and monetize YRF’s content portfolio worldwide.
 
 Digital Leadership at YRF
