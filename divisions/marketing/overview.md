@@ -9,74 +9,90 @@ intended_use: studio_identity
 last_updated: 2026-01-20
 ---
 
-## YRF Marketing & Merchandising –
+## YRF Marketing & Merchandising
 
-YRF Marketing & Merchandising is responsible for audience-focused positioning, communication strategy, and go-to-market execution for Yash Raj Films’ theatrical releases and talent.
+YRF Marketing & Merchandising is responsible for audience-focused positioning, communication strategy, and go-to-market execution for Yash Raj Films’ theatrical releases and talent across domestic and international markets.
 
-Core Responsibilities
+## Core Responsibilities
 
-- Film and talent positioning
-- Integrated marketing strategy
-- Content-led audience engagement
-- Channel-specific campaign execution
-- Marketing analytics and business alignment
+- Film and talent positioning  
+- Integrated marketing strategy  
+- Content-led audience engagement  
+- Channel-specific campaign execution  
+- Marketing analytics and business alignment  
 
-  Operating Philosophy
+## Operating Philosophy
 
-- Audience time as the primary value currency
-- Differentiated positioning for every film and artist
-- Content marketing-led approach
+- Audience time as the primary value currency  
+- Differentiated positioning for every film and artist  
+- Content marketing–led approach  
 
-Division Identity
-YRF Marketing & Merchandising is the marketing division of Yash Raj Films, responsible for designing and executing audience-centric marketing strategies for films and talent across domestic and international markets.
+## Division Identity
 
-Audience-Centric Philosophy
-The division operates on the principle that audience attention is the most valuable currency in the modern entertainment ecosystem. Recognizing that audiences are deliberate about how they invest their time, the marketing strategy focuses on delivering compelling reasons for audiences to choose the theatrical experience.
+YRF Marketing & Merchandising functions as the centralized marketing division of Yash Raj Films, designing and executing audience-centric marketing strategies for films and talent at scale.
 
-Strategic Mandate
-The team’s mandate extends beyond generating awareness or buzz. Its core responsibility is to:
+## Audience-Centric Philosophy
 
-- Position each film and talent uniquely
-- Align marketing narratives with audience expectations
-- Translate creative vision into compelling market propositions
-- Drive theatrical footfall through relevance and engagement
+The division operates on the principle that audience attention is the most valuable currency in the modern entertainment ecosystem.  
+Marketing strategies are designed to give audiences compelling reasons to prioritize the theatrical experience.
 
-Content Marketing Leadership
-YRF’s marketing team has consistently positioned itself at the forefront of content marketing within the Indian film industry. Every campaign is tailored to the specific identity, genre, and target audience of the film or artist.
+## Strategic Mandate
 
-Rather than applying uniform templates, the division develops bespoke marketing strategies that respect the distinctiveness of each project.
+The mandate of the division extends beyond awareness creation and promotional buzz.
 
-Integrated Marketing Mix
-The division develops and deploys a comprehensive marketing mix, which includes:
+- Position each film and talent uniquely  
+- Align marketing narratives with audience expectations  
+- Translate creative vision into market-ready propositions  
+- Drive theatrical footfall through relevance and engagement  
 
-- Product and narrative positioning
-- Communication strategy
-- Creative innovation
-- Channel-specific propositions
-- Business and release strategy alignment
+## Content Marketing Leadership
 
-These components are orchestrated to work cohesively across platforms and markets.
+YRF’s marketing division has established leadership in content-driven marketing within the Indian film industry.
 
-Cross-Functional Team Structure
-YRF Marketing & Merchandising is composed of professionals from diverse backgrounds, including:
+Each campaign is custom-built to reflect:
+- Film or artist identity  
+- Genre and tone  
+- Target audience behavior  
 
-- Marketing
-- Creative
-- Media planning
-- Business strategy
-- Technology
-- Analytics
-- Finance
+Uniform templates are avoided in favor of bespoke strategies.
 
-This multidisciplinary structure enables informed decision-making and ensures alignment between creative ambition and commercial objectives.
+## Integrated Marketing Mix
 
-Operating Model
-The team works collaboratively with internal creative teams, production units, distribution partners, and external agencies. All functions operate with the audience at the center of planning and execution.
+The division deploys a comprehensive and coordinated marketing mix:
+
+- Product and narrative positioning  
+- Communication strategy  
+- Creative innovation  
+- Channel-specific propositions  
+- Business and release strategy alignment  
+
+These elements are orchestrated to function cohesively across platforms and markets.
+
+## Cross-Functional Team Structure
+
+The division comprises professionals from multiple disciplines:
+
+- Marketing  
+- Creative  
+- Media planning  
+- Business strategy  
+- Technology  
+- Analytics  
+- Finance  
+
+This structure ensures alignment between creative ambition and commercial objectives.
+
+## Operating Model
+
+The team works collaboratively with:
+- Internal creative teams  
+- Production units  
+- Distribution partners  
+- External agencies  
+
+All planning and execution are anchored around audience relevance.
 
 ## Leadership and Points of Contact
 
-The division operates under senior leadership with deep experience in film marketing and brand strategy.
-**Points of Contact:**
-
-- Mr. Manan Mehta — Senior Vice President, Marketing & Merchandising
-- Mr. Amit Dwivedi — General Manager, Marketing
+- Mr. Manan Mehta — Senior Vice President, Marketing & Merchandising  
+- Mr. Amit Dwivedi — General Manager, Marketing  
