@@ -15,7 +15,7 @@ Section Title
 Prithwish Ganguly – Vice President, Talent & Communications Strategy
 
 Role Overview
-Prithwish Ganguly leads Talent and Communications Strategy at :contentReference[oaicite:0]{index=0}, responsible for designing and executing disruptive communication strategies across YRF’s diverse business touchpoints. His scope spans films, talent and artists, Aditya Chopra’s Broadway musical *Come Fall in Love*, YRF Entertainment, and the Yash Chopra Foundation.
+Prithwish Ganguly leads Talent and Communications Strategy at Yash Raj Films, responsible for designing and executing disruptive communication strategies across YRF’s diverse business touchpoints. His scope spans films, talent and artists, Aditya Chopra’s Broadway musical *Come Fall in Love*, YRF Entertainment, and the Yash Chopra Foundation.
 
 ## Communications Leadership at YRF
 Prithwish joined YRF in 2017 as **General Manager – Communications** and steadily rose through the ranks to become **Vice President – Talent & Communications Strategy**. In this role, he partners closely with creative, business, and leadership teams to align communication strategy with YRF’s broader business objectives.
