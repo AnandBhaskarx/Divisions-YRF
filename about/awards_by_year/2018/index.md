@@ -6,15 +6,15 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2018
+## Awards-2018
 
-## Thugs Of Hindostan
+Thugs Of Hindostan
 
 FICCI BAF Awards 2019  
 - VFX Category – Best Film (Indian)  
 - VFX Category – Best Shot of the Year (Indian) – Trojan Shot
 
-## Hichki
+Hichki
 
 Giffoni Film Festival  
 - Gryphon Award (Elements +10 Section) – Best Film – Hichki

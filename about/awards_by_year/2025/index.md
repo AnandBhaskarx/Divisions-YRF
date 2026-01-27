@@ -6,9 +6,9 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2025
+## Awards-2025
 
-## Saiyaara
+Saiyaara
 
 NDTV Indian of the Year 2025  
 - Debutant Actor of the Year – Ahaan Panday

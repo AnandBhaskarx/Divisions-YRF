@@ -6,9 +6,9 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2019
+## Awards-2019
 
-## Mardaani 2
+Mardaani 2
 
 Dadasaheb Phalke International Film Festival Awards 2020  
 - Best Actress – Rani Mukerji
@@ -21,7 +21,7 @@ Zee Cine Awards
 - Favourite Best Debutant Actor – Vishal Jethwa  
 - Favourite Path Breaking Director of the Year – Gopi Puthran
 
-## War
+War
 
 Filmfare Awards  
 - Best Action – Paul Jennings, Sea Young Oh, Parvez Shaikh, Franz Spilhaus  

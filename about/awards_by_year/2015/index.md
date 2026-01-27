@@ -6,14 +6,14 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2015
+## Awards-2015
 
-## Bang Baaja Baaraat
+Bang Baaja Baaraat
 
 Indian Television Academy Awards  
 - Best Web Series – 2016
 
-## Titli
+Titli
 
 The French Syndicate of Cinema Critics Awards  
 - Best First Foreign Film – Titli  
@@ -21,7 +21,7 @@ The French Syndicate of Cinema Critics Awards
 International Film & Entertainment Festival Australia (IFEFA)  
 - Best Actor – Ranvir Shorey
 
-## Dum Laga Ke Haisha
+Dum Laga Ke Haisha
 
 National Awards  
 - Best Hindi Film – Dum Laga Ke Haisha  

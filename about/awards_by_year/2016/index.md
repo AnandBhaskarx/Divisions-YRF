@@ -6,9 +6,9 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2016
+## Awards-2016
 
-## Sultan
+Sultan
 
 IIFA Awards  
 - Best Action – Larnell Stovall, Parvez Shaikh, ANL Arasu  
@@ -44,12 +44,12 @@ Tehran International Sports Film Festival
 - Trophy & Diploma for Best Actress – Anushka Sharma  
 - Trophy & Diploma for Best Director – Ali Abbas Zafar
 
-## Ladies Room
+Ladies Room
 
 International Recognition  
 - Only Indian show featured in IndieWire’s Best Web Series in the World
 
-## Fan
+Fan
 
 IIFA Awards  
 - Best Special Effects – Fan (Red Chillies VFX)  
@@ -64,7 +64,7 @@ Stardust Awards
 Locations 2016  
 - Promoting a New International Destination in a Hindi Film – Fan
 
-## 6 Pack Band
+6 Pack Band
 
 Content Marketing Summit 2016  
 - Content Marketing Innovator of the Year  

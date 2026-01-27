@@ -6,9 +6,9 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2017
+## Awards-2017
 
-## Tiger Zinda Hai
+Tiger Zinda Hai
 
 Filmfare Awards  
 - Best Action – Tom Struthers

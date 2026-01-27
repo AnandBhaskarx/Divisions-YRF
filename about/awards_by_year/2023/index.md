@@ -6,14 +6,14 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards-2023
+## Awards-2023
 
-## Vijay 69
+Vijay 69
 
 Pinkvilla Screen & Style Icons Awards 2025  
 - Best Actor – OTT (Male), Jury's Pick – Anupam Kher
 
-## Maharaj
+Maharaj
 
 Filmfare OTT Awards 2024  
 - Best Supporting Actor, Web Original Film (Male) – Jaideep Ahlawat
@@ -41,12 +41,12 @@ Indian Streaming Academy Awards 2025
 - Best Production Design – Web Original Film – Subrata Chakraborty, Amit Ray  
 - Best Costume Design – Web Original Film – Maxima Basu
 
-## Tiger 3
+Tiger 3
 
 FICCI BAF Awards 2024  
 - Best VFX Shot of the Year – Tiger 3
 
-## Pathaan
+Pathaan
 
 Filmfare Awards  
 - Best Singer (Female) – Shilpa Rao (Besharam Rang)
