@@ -34,7 +34,8 @@ Yash Raj Films manages its global reach through five primary international offic
 - **Contact**: ukoffice@yashrajfilms.com.
 - **Lead**: Mr. Jinsu John.
 
-### 5. Canada (Toronto)
+ Canada (Toronto)
 - **Address**: 55 York Street, Suite 401, Toronto, ON, M5J 1R7.
 
 - **Contact**: 416-748-3585 | CAoffice@yashrajfilms.com.
+
