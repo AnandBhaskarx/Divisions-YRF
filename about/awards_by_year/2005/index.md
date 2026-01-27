@@ -6,13 +6,13 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 2005
-## Salaam Namaste
+## Awards – 2005
+ Salaam Namaste
 
 International Indian Film Academy (IIFA) Awards  
 - Best Actor in a Comic Role (Male) – Javed Jaffery
 
-## Bunty Aur Babli
+ Bunty Aur Babli
 
 Filmfare Awards  
 - Best Music – Shankar–Ehsaan–Loy  

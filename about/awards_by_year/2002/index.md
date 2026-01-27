@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 2002
-## Saathiya
+## Awards – 2002
+ Saathiya
 
 Filmfare Awards  
 - Best Music – A. R. Rahman  

@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 2006
-## Kabul Express
+## Awards – 2006
+ Kabul Express
 
 National Film Awards  
 - Best First Film Director – Kabir Khan
@@ -25,7 +25,7 @@ International Film Festival Selections and Premieres
 - 31st Cairo International Film Festival  
 - 3rd Asian Festival of 1st Films
 
-## Dhoom: 2
+Dhoom: 2
 
 Filmfare Awards  
 - Best Actor – Hrithik Roshan
@@ -42,7 +42,7 @@ AXN Action Awards
 - Best Action Sequence – Allan Amin  
 - Best Original Soundtrack in Action Films – Pritam; Salim–Sulaiman
 
-## Fanaa
+Fanaa
 
 Filmfare Awards  
 - Best Actress – Kajol  

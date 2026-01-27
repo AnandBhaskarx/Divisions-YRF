@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 2008
-## Rab Ne Bana Di Jodi
+## Awards – 2008
+ Rab Ne Bana Di Jodi
 
 Filmfare Awards  
 - Best Playback Singer (Male) – Sukhwinder Singh (Haule Haule)  
@@ -33,7 +33,7 @@ Aaj Tak Movie Awards
 Okinawa International Movie Festival 2010 (Japan)  
 - Grand Prix of Peace Category – Rab Ne Bana Di Jodi
 
-## Roadside Romeo
+ Roadside Romeo
 
 National Film Award  
 - Best Animation Film – Roadside Romeo
@@ -63,7 +63,7 @@ Cairo International Film Festival for Children 2010
 ASIFA India Awards  
 - Special Jury Mention – Awards of Excellence Professional (More than 10 minutes)
 
-## Bachna Ae Haseeno
+Bachna Ae Haseeno
 
 Screen Awards  
 - Best Playback Singer (Male) – KK (Khuda Jaane)  
@@ -73,12 +73,12 @@ Screen Awards
 Li’l Star Awards  
 - Most Colorful Costumes – Aki Narula
 
-## Thoda Pyaar Thoda Magic
+Thoda Pyaar Thoda Magic
 
 Li’l Star Awards  
 - Best House in a Film – Thoda Pyaar Thoda Magic
 
-## Tashan
+Tashan
 
 Max Stardust Awards  
 - Standout Performance by a Lyricist – Kausar Munir (Falak Tak Chal)  

@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 2000
-## Mohabbatein
+## Awards – 2000
+ Mohabbatein
 
 Filmfare Awards  
 - Best Supporting Actor – Amitabh Bachchan  

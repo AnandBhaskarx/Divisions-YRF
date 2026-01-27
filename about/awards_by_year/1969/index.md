@@ -6,13 +6,13 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 1969
-## Aadmi Aur Insaan
+## Awards – 1969
+ Aadmi Aur Insaan
 
 Filmfare Awards  
 - Best Supporting Actor – Feroz Khan
 
-## Ittefaq
+ Ittefaq
 
 Filmfare Awards  
 - Best Director – Yash Chopra  

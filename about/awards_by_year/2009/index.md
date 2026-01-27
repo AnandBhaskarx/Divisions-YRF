@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 2009
-## Dil Bole Hadippa
+## Awards – 2009
+Dil Bole Hadippa
 
 V. Shantaram Awards  
 - Best Actress – Rani Mukerji
@@ -18,7 +18,7 @@ Anandalok Purashkar
 Ishq Magazine (Germany) – Reader’s Choice Award  
 - Best Film of 2009 – Dil Bole Hadippa
 
-## New York
+ New York
 
 Apsara Awards  
 - Best Sound – Anuj Mathur (YRF Studios)

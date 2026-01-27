@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-# Awards – 1976
-## Deewaar
+## Awards – 1976
+ Deewaar
 
 Filmfare Awards  
 - Best Film – Gulshan Rai (Producer)  
