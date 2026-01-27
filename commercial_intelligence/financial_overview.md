@@ -9,19 +9,7 @@ intended_use: business_model_and_financial_health_analysis
 last_updated: 2025-01-21
 ---
 
-## YRF Financial Overview & Business Model
 
-Executive Summary
-
-Yash Raj Films operates as a privately held, vertically integrated entertainment company with diversified revenue streams across theatrical, digital, licensing, and brand partnerships. Financial resilience is supported by conservative debt practices, advance monetization strategies, and long-term IP ownership.
-
- Corporate Structure
-
-- **Legal Entity:** Yash Raj Films Private Limited
-- **Ownership:** Chopra family (privately held)
-- **Incorporation:** 1970
-- **Financial Year:** April 1 – March 31
-- **Auditors:** Deloitte Haskins & Sells LLP
 
 ## YRF Financial Overview & Business Model
  Executive Summary
