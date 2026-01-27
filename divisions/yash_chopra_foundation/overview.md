@@ -11,44 +11,69 @@ last_updated: 2026-01-20
 
 ## Yash Chopra Foundation
 
-The Yash Chopra Foundation (YCF) is the philanthropic arm of Yash Raj Films Pvt. Ltd., established to address the long-term well-being and livelihood challenges faced by daily wage workers of the Hindi film industry.
+The Yash Chopra Foundation (YCF) is the philanthropic arm of Yash Raj Films Pvt. Ltd., established to address long-term well-being and livelihood challenges faced by daily wage workers of the Hindi film industry.
 
-The Foundation is led by the Chairman and Managing Director of Yash Raj Films, Mr. Aditya Chopra, and operates with a sustained commitment to improving quality of life for film industry workers.
+## Leadership and Governance
 
-YCF aims to provide structured, sustained, and dignified support to members of the film industry through interventions focused on essential needs, including food security, healthcare, education, and mobility.
+The Foundation is led by Mr. Aditya Chopra, Chairman and Managing Director of Yash Raj Films.  
+YCF operates with a sustained commitment to improving the quality of life of film industry workers.
 
-With evolving programs and continuous engagement, the Foundation seeks to build long-term resilience and stability for beneficiaries, recognizing the integral role of film industry workers in shaping India’s cinematic legacy.
+## Mission and Purpose
 
-YCF Saathi Application
+YCF aims to provide structured, sustained, and dignified support to members of the film industry through interventions focused on essential needs.
 
-The YCF Saathi application allows beneficiaries to:
+Key focus areas include:
+- Food security  
+- Healthcare  
+- Education  
+- Mobility and travel support  
 
-- Register and verify eligibility
-- Access Saathi Card information
-- View benefits and usage details
-- Engage with program updates digitally
+The Foundation seeks to build long-term resilience and stability for beneficiaries through continuous engagement and evolving programs.
+
+## YCF Saathi Application
+
+The YCF Saathi application enables beneficiaries to digitally access and manage program participation.
+
+Core functionalities include:
+- Registration and eligibility verification  
+- Access to Saathi Card information  
+- Viewing benefits and usage details  
+- Receiving program updates  
 
 The application is designed to ensure ease of access and transparency for enrolled Saathis.
 
-The Saathi Card enables eligible film industry workers to access structured benefits in a simple and transparent manner.
-The card acts as a verified identity tool, allowing beneficiaries to avail support through selected outlets and partner service providers across essential support categories.
+## Saathi Card System
 
-YCF Saathi Program
-The YCF Saathi Program is a first-of-its-kind initiative designed to provide sustained, structured support to daily wage workers of the Hindi film industry.
-Built on the global principle of minimum basic support, the program offers access to benefits spanning household essentials, healthcare, education, and travel reimbursement through a unified system.
+The Saathi Card functions as a verified identity and benefit-access tool for eligible film industry workers.
 
-Actions and Initiatives
+The card enables beneficiaries to:
+- Avail structured support  
+- Access benefits through selected outlets  
+- Engage with partner service providers  
 
-The Yash Chopra Foundation has undertaken multiple initiatives to support film industry workers, particularly during periods of heightened vulnerability.
+It ensures simple, transparent access across essential support categories.
+
+## YCF Saathi Program
+
+The YCF Saathi Program is a first-of-its-kind initiative designed to provide sustained and structured support to daily wage workers of the Hindi film industry.
+
+Built on the global principle of minimum basic support, the program offers unified access to:
+- Household essentials  
+- Healthcare services  
+- Education assistance  
+- Travel reimbursement  
+
+## Actions and Initiatives
+
+The Yash Chopra Foundation has undertaken multiple initiatives to support film industry workers, especially during periods of heightened vulnerability.
 
 Key initiatives include:
-
-- Home delivery of ration supplies to film workers during the second wave of the COVID-19 pandemic
-- Direct benefit transfers for women and senior citizens during COVID-19
-- Supply of cooked meals to quarantine centres from the YRF Studios kitchen
-- COVID-19 vaccination support, including transport and vaccine awareness
-- Benefits under the YCF Saathi program, including ration support, travel reimbursement, healthcare, and education assistance
-- Introduction of enrolment categories for retired and specially-abled film industry workers in 2024
-- Quarterly awareness sessions covering career counselling, financial planning, and healthcare topics
+- Home delivery of ration supplies during the second wave of COVID-19  
+- Direct benefit transfers for women and senior citizens during COVID-19  
+- Supply of cooked meals to quarantine centres from the YRF Studios kitchen  
+- COVID-19 vaccination support, including transport and awareness  
+- Ongoing benefits under the YCF Saathi Program  
+- Introduction of enrolment categories for retired and specially-abled workers in 2024  
+- Quarterly awareness sessions on career counselling, financial planning, and healthcare  
 
 These initiatives reflect YCF’s commitment to both immediate relief and long-term support.
