@@ -14,7 +14,7 @@ The Company – Overview
 
 Core Identity
 **Films. Music. Artistes.**  
-At its core, :YRF is a storytelling-driven entertainment studio with a presence across the full spectrum of filmmaking and creative production.
+At its core, Yash Raj Films is a storytelling-driven entertainment studio with a presence across the full spectrum of filmmaking and creative production.
 
 ## Studio Overview
 From producing high-budget blockbusters to genre-defining films, and from working with established stars to launching new talent, YRF has maintained a flagship position across the Indian entertainment industry since its inception. The studio has consistently operated across multiple creative and commercial verticals, combining scale with creative ambition.

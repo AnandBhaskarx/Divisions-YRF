@@ -15,7 +15,7 @@ Section Title
 Nelson D’Souza – Vice President, International Distribution
 
 Role Overview
-Nelson D’Souza serves as Vice President – International Distribution at :contentReference[oaicite:0]{index=0}, bringing over three decades of experience across global entertainment markets. He leads YRF’s international theatrical, television, and home-video distribution strategy, with a focus on expanding the studio’s global footprint.
+Nelson D’Souza serves as Vice President – International Distribution at Yash Raj Films, bringing over three decades of experience across global entertainment markets. He leads YRF’s international theatrical, television, and home-video distribution strategy, with a focus on expanding the studio’s global footprint.
 
 ## International Distribution Leadership at YRF
 Nelson joined YRF in 2005 as **Senior Manager – UAE & GCC Operations**. Since then, he has been instrumental in building YRF’s international distribution networks across the MENA region and other key global markets.
