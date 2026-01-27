@@ -16,7 +16,7 @@ Aditya Chopra – Chairman & Managing Director
 
 Aditya Chopra is a writer, producer, director, and studio leader who serves as the Chairman and Managing Director of :contentReference[oaicite:0]{index=0}. He is widely regarded as a cinematic trendsetter and the primary creative force behind YRF’s contemporary evolution.
 
- ## Creative and Strategic Role
+## Creative and Strategic Role
 Aditya Chopra functions as:
 - A storyteller who shaped modern Hindi romance  
 - A producer who actively explores genre-shifting cinema  
@@ -60,7 +60,7 @@ Key aspects of his producing legacy include:
 - Holding the record for producing the maximum number of Hindi films  
 - Balancing commercial scale with creative experimentation  
 
- ## Genre Innovation and Industry Influence
+## Genre Innovation and Industry Influence
 Aditya Chopra’s creative strength lies in:
 - Defining the cinematic language of romance as a director  
 - Driving genre innovation as a producer  
