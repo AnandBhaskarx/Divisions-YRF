@@ -6,8 +6,8 @@ content_type: awards_recognition
 intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
-## Awards-1988
- Vijay
+## Awards – 1959
+Dhool Ka Phool
 
 Filmfare Awards  
-- Best Supporting Actor – Anupam Kher
+- Best Supporting Actor – Manmohan Krishna

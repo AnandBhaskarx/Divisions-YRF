@@ -1,16 +1,13 @@
+domain: awards
+subdomain: films
+entity_type: movies_and_people
+source: filmfare
+content_type: awards_recognition
+intended_use: rag_knowledge
+last_updated: 2026-01-21
 ---
-year: 1984
-domain: about
-subdomain: awards
-entity: yash_raj_films
-content_type: index
-intended_use: rag_navigation
-confidence: high
-last_updated: 2026-01-20
----
+## Awards – 1984
+ Mashaal
 
-# Awards – 1984
-
-## Films with Awards
-- **Mashaal**  
-  - Filmfare Awards  
+Filmfare Awards  
+- Best Supporting Actor – Anil Kapoor
