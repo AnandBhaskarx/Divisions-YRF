@@ -9,7 +9,7 @@ intended_use: revenue_stream_analysis_and_optimization
 last_updated: 2025-01-21
 ---
 
-# YRF Revenue Streams
+## YRF Revenue Streams
 
 Multi-Stream Revenue Architecture
 

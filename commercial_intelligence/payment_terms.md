@@ -9,10 +9,10 @@ intended_use: payment_terms_and_cash_flow_management
 last_updated: 2025-01-21
 ---
 
-# Payment Terms & Cash Flow Practices
+## Payment Terms & Cash Flow Practices
 
 <<<<<<< HEAD
-## Advance Monetization Strategy
+ Advance Monetization Strategy
 =======
 Advance Monetization Strategy
 >>>>>>> 50db8995c97a9a1f42b5f9c96492f44a134dff18
@@ -22,7 +22,7 @@ Advance Monetization Strategy
 - International distribution advances secured pre-release
 
 <<<<<<< HEAD
-## Brand Partnership Payments
+ Brand Partnership Payments
 =======
 Brand Partnership Payments
 >>>>>>> 50db8995c97a9a1f42b5f9c96492f44a134dff18
@@ -31,7 +31,7 @@ Brand Partnership Payments
 - 50% on film release
 
 <<<<<<< HEAD
-## Vendor Payment Practices
+ Vendor Payment Practices
 =======
 Vendor Payment Practices
 >>>>>>> 50db8995c97a9a1f42b5f9c96492f44a134dff18
@@ -40,7 +40,7 @@ Vendor Payment Practices
 - Reputation for timely settlement
 
 <<<<<<< HEAD
-## Risk Coverage
+
 =======
 Risk Coverage
 >>>>>>> 50db8995c97a9a1f42b5f9c96492f44a134dff18
