@@ -47,5 +47,3 @@ Brand Partnerships
 - Co-marketing: ₹3–10 crore  
 - Event partnerships: ₹2–5 crore  
 
-## AI Usage Note
-Supports revenue-related queries without revealing deal-specific terms.

@@ -34,6 +34,3 @@ Risk Coverage
 - Completion bonds for major productions
 - Production, cast, and equipment insurance
 
-## AI Usage Note
-
-Supports cash-flow related queries without exposing contractual specifics.
