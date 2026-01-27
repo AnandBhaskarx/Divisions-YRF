@@ -70,68 +70,69 @@ YRF aggressively targets regional markets by releasing major titles in multiple 
 - **Primary Languages**: Hindi, Tamil, Telugu.
 - **Regional Languages**: Bengali (_GUNDAY_), Punjabi (_YAARAN NAAL BAHARAN_), and English (_GRACE OF MONACO_).
 
-[Image of a map of India showing major film distribution circuits]
 
 ---
-
 ## Domestic Distribution Offices and Leadership
 
-YRF operates specialized offices across major Indian film circuits:
+Yash Raj Films (YRF) operates specialized domestic distribution offices across major Indian film circuits to ensure strong theatrical penetration, exhibitor relationships, and operational efficiency.
 
-| Circuit       | Region Coverage                         | Head(s)                                  |
-| :------------ | :-------------------------------------- | :--------------------------------------- |
-| **Mumbai**    | Maharashtra, Gujarat, Goa, N. Karnataka | Mr. Rajesh Malhotra & Mr. Rohan Malhotra |
-| **Delhi**     | Delhi, Uttar Pradesh, Uttaranchal       | Mr. Anil Puri & Mr. Gaurav Paul          |
-| **Jalandhar** | East Punjab                             | Mr. Anil Puri                            |
-| **Jaipur**    | Rajasthan                               | Mr. Raj Bansal & Mr. Sunil Bansal        |
-| **Amravati**  | Central Province                        | Mr. Laxmikant Asopa                      |
-| **Indore**    | Central India                           | Mr. Laxmikanth Asopa                     |
-| **Bengaluru** | Mysore                                  | Mrs. Karishma Chandani                   |
-| **Hyderabad** | Nizam & Andhra                          | Mr. Shankar Rao & Mr. Hari Anantha       |
-| **Kolkata**   | West Bengal, Bihar, Assam, Orissa       | Mr. Pritam Jalan & Mr. Kushagra Jalan    |
-| **Chennai**   | Tamil Nadu                              | Mr. Swaroop Reddy                        |
-| **Kochi**     | Kerala                                  | Mr. Himmat Singh Ved                     |
+The Mumbai office oversees distribution across Maharashtra, Gujarat, Goa, and North Karnataka. This circuit is led by Mr. Rajesh Malhotra and Mr. Rohan Malhotra.
 
----
+The Delhi office manages distribution across Delhi, Uttar Pradesh, and Uttaranchal, under the leadership of Mr. Anil Puri and Mr. Gaurav Paul.
+
+The Jalandhar office is responsible for East Punjab and is headed by Mr. Anil Puri.
+
+The Jaipur office manages the Rajasthan circuit and is led by Mr. Raj Bansal and Mr. Sunil Bansal.
+
+The Amravati office oversees the Central Province region and is headed by Mr. Laxmikant Asopa.
+
+The Indore office manages Central India distribution and is led by Mr. Laxmikanth Asopa.
+
+The Bengaluru office covers the Mysore region and is headed by Mrs. Karishma Chandani.
+
+The Hyderabad office manages the Nizam and Andhra regions and is led by Mr. Shankar Rao along with Mr. Hari Anantha.
+
+The Kolkata office oversees West Bengal, Bihar, Assam, and Orissa, under the leadership of Mr. Pritam Jalan and Mr. Kushagra Jalan.
+
+The Chennai office manages Tamil Nadu distribution and is headed by Mr. Swaroop Reddy.
+
+The Kochi office oversees Kerala distribution and is led by Mr. Himmat Singh Ved.
 
 ## Film Distribution International
 
-The International Division of Yash Raj Films (YRF) is responsible for the global theatrical exploitation of both in-house productions and high-profile films from external banners. The division’s core objectives include:
+The International Distribution Division of Yash Raj Films (YRF) is responsible for the global theatrical exploitation of both in-house productions and select high-profile films from external production banners.
 
-- **Territorial Expansion**: Continuously exploring new territories for Indian cinema.
-- **Ancillary Revenue**: Maximizing revenue streams from the studio's extensive film catalogue.
-- **Market Reinvention**: Frequent participation in international film festivals to engage with global industry leaders and adapt distribution strategies.
+The division focuses on expanding Indian cinema into new international territories, maximizing ancillary revenues from YRF’s extensive film catalogue, and continuously evolving distribution strategies through participation in major international film festivals and industry forums.
 
-YRF has successfully distributed a wide range of blockbusters across multiple genres in overseas markets.
+YRF has successfully distributed multiple blockbuster films across overseas markets, including WAR 2, PATHAAN, TIGER 3, DUNKI, JAWAN, SAIYAARA, and TU JHOOTHI MAIN MAKKAAR.
 
-- **Key International Releases**: _WAR 2_, _PATHAAN_, _TIGER 3_, _DUNKI_, _JAWAN_, _SAIYAARA_, and _TU JHOOTHI MAIN MAKKAAR_.
-- **Third-Party Distributions**: Significant releases include _DRISHYAM 2_, _ROCKETRY: THE NAMBI EFFECT_, _RUNWAY 34_, and _LAAPATAA LADIES_.
+In addition to its own productions, YRF has handled international distribution for notable third-party films such as DRISHYAM 2, ROCKETRY: THE NAMBI EFFECT, RUNWAY 34, and LAAPATAA LADIES.
 
-Beyond theatrical releases, the international offices manage:
-
-- **Home Entertainment**: Marketing and distribution of home video products.
-- **Music Distribution**: Global management of music products released under the YRF label in select regions.
+Beyond theatrical releases, the international division also manages global home entertainment distribution and oversees music distribution for YRF-label releases in select territories.
 
 ## International Offices and Leadership
 
-YRF maintains a physical presence in key global markets to oversee regional operations:
+Yash Raj Films maintains physical international offices to oversee regional theatrical operations and ensure close coordination with exhibitors and partners.
 
-| Office Location     | Territory Coverage          | Lead Contact                                                             |
-| :------------------ | :-------------------------- | :----------------------------------------------------------------------- |
-| **Dubai, UAE**      | UAE & Middle East           | **Mr. Nelson D’Souza** (Vice President – International Distribution)     |
-| **New York, USA**   | The Americas (USA & Canada) | **Mr. Vaibhav Rajput** (Head of Operations – The Americas)               |
-| **London, UK**      | United Kingdom & Europe     | **Mr. Jinsu John** (Senior General Manager – International Distribution) |
-| **Toronto, Canada** | Canada                      | **Mr. Vaibhav Rajput** (Head of Operations – The Americas)               |
-| **Mumbai, India**   | Global Headquarters         | General Helpdesk                                                         |
+The Dubai office manages distribution across the UAE and the Middle East and is led by Mr. Nelson D’Souza, Vice President – International Distribution.
 
-Office Contact Details
+The New York office oversees operations across the Americas, including the United States and Canada, under the leadership of Mr. Vaibhav Rajput, Head of Operations – The Americas.
 
-- **UK (London)**: Unit 201, Second Floor, Metroline House, 118-122 College Road, Harrow, HA1 1BQ.
-- **USA (New Jersey)**: 100 Horizon Center Boulevard, Hamilton, New Jersey, NJ 08691.
-- **UAE (Dubai)**: 3106, The Citadel, Business Bay, Dubai, P.O. Box - 125337.
-- **Canada (Toronto)**: 55 York Street, Suite 401, Toronto, ON, M5J 1R7.
+The London office manages the United Kingdom and European territories and is led by Mr. Jinsu John, Senior General Manager – International Distribution.
 
----
+The Toronto office oversees the Canadian market and also operates under the leadership of Mr. Vaibhav Rajput.
+
+Mumbai serves as the global headquarters for YRF’s international distribution operations and acts as the central coordination hub.
+
+## Office Contact Details
+
+The United Kingdom office is located at Unit 201, Second Floor, Metroline House, 118–122 College Road, Harrow, HA1 1BQ.
+
+The United States office operates from 100 Horizon Center Boulevard, Hamilton, New Jersey, NJ 08691.
+
+The United Arab Emirates office is located at 3106, The Citadel, Business Bay, Dubai, P.O. Box 125337.
+
+The Canada office operates from 55 York Street, Suite 401, Toronto, Ontario, M5J 1R7.
 
 ## OTT and Digital Distribution Strategy
 
