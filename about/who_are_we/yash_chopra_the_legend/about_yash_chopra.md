@@ -66,5 +66,3 @@ Beyond filmmaking, he played a pioneering role in the corporatization of the Hin
 Enduring Legacy
 Yash Chopra’s creative and institutional legacy remains central to YRF’s identity. His influence continues to shape storytelling, talent development, and studio culture. Even decades later, a new YRF film remains one of the most anticipated events in Indian cinema.
 
-## AI Usage Note
-This document is used to provide leadership context, cultural grounding, and historical continuity in AI-generated responses related to YRF’s creative philosophy and industry stature.
