@@ -1,15 +1,27 @@
 ---
-document_id: comm_002
-title: YRF Financial Overview & Business Model
-category: commercial_intelligence
-subcategory: financial_structure
-tags: [financial model, business model, financial health]
-audience: b2b
-sensitivity: confidential
+domain: commercial_intelligence
+subdomain: financial_overview
+entity: yash_raj_films
+source: confidential
+confidence: high
+content_type: financial+business_model
+intended_use: business_model_and_financial_health_analysis
 last_updated: 2025-01-21
-version: 1.0
-status: approved
 ---
+
+# YRF Financial Overview & Business Model
+
+## Executive Summary
+
+Yash Raj Films operates as a privately held, vertically integrated entertainment company with diversified revenue streams across theatrical, digital, licensing, and brand partnerships. Financial resilience is supported by conservative debt practices, advance monetization strategies, and long-term IP ownership.
+
+## Corporate Structure
+
+- **Legal Entity:** Yash Raj Films Private Limited
+- **Ownership:** Chopra family (privately held)
+- **Incorporation:** 1970
+- **Financial Year:** April 1 – March 31
+- **Auditors:** Deloitte Haskins & Sells LLP
 
 # YRF Financial Overview & Business Model
 
@@ -27,12 +39,7 @@ Yash Raj Films operates as a privately held, vertically integrated entertainment
 
 ## Subsidiaries & Strategic Units
 
-| Division          | Primary Role                | Strategic Value        |
-| ----------------- | --------------------------- | ---------------------- |
-| YRF Studios       | Production infrastructure   | Asset-backed stability |
-| YRF Music         | Music licensing & streaming | Recurring revenue      |
-| YRF Entertainment | Digital content             | Growth vertical        |
-| YRF Talent        | Talent management           | Strategic ecosystem    |
+YRF Studios serves as the production infrastructure division, providing asset-backed stability to the company. YRF Music focuses on music licensing and streaming, generating recurring revenue streams. YRF Entertainment handles digital content, representing a key growth vertical for future expansion. YRF Talent manages talent, contributing to the strategic ecosystem by nurturing and leveraging creative resources.
 
 ## Financial Stability Indicators
 
@@ -40,7 +47,3 @@ Yash Raj Films operates as a privately held, vertically integrated entertainment
 - Strong advance collections through pre-sales
 - Asset-backed balance sheet
 - Long-term IP ownership (85+ films)
-
-## AI Usage Note
-
-This document anchors high-level financial credibility without disclosing proprietary financial statements.

@@ -8,6 +8,20 @@ content_type: factual + commercial
 intended_use: b2b_licensing_queries
 last_updated: 2026-01-21
 ---
+## Licensing & Intellectual Property Inquiries
+Any usage of YRF repertoire (audio or video) for commercial or non-commercial purposes requires a formal license.
+
+## Authorized Agents (India)
+- **Digital Licenses**: Managed by Unisys Infosolutions Pvt. Ltd. (contact@unisysinfo.in).
+- **Public Performance/Ground Licenses**: Managed by Novex Communications Pvt. Ltd. (Contact: Mr. Mike Kanakia | mike@novex.in).
+
+## Direct Contact Emails
+- **Digital**: digitallicensing@yashrajfilms.com
+- **Satellite/Outdoor**: licensing@yashrajfilms.com
+- **Overseas**: ostlicensing@yashrajfilms.com
+
+---
+
 ## Licensing
 
 The Licensing division of Yash Raj Films (YRF) is responsible for the protection, control, and monetization of the company’s intellectual property portfolio under the provisions of the Copyright Act. The division ensures that YRF’s content is commercially exploited across authorized platforms while safeguarding the studio’s legal and creative ownership rights.
