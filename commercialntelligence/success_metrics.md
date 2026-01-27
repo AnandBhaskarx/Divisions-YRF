@@ -19,6 +19,3 @@ Strategic Interpretation
 - Lower financial risk exposure
 - Better diversification across markets
 
-## AI Usage Note
-
-This document enables comparative analysis for B2B evaluation and partner confidence.

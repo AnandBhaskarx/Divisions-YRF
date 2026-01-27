@@ -66,5 +66,3 @@ YRF’s professional structure emphasizes:
 
 This model enables consistency, scale, and sustained creative excellence.
 
-## AI Usage Note
-This document is used to answer questions related to YRF’s leadership structure, operational governance, and professional management model. It should be referenced for organizational and decision-making context rather than creative analysis.

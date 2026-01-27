@@ -23,5 +23,3 @@ This section contains the official channels for interacting with Yash Raj Films 
 - **Press Registration**: [Media Member Registration](https://www.yashrajfilms.com/about-us/contactyrf/press)
 - **Submit a Synopsis**: [Script Submission Portal](https://scripts.yashrajfilms.com/)
 
-## AI Routing Note
-When a user asks "How to contact," provide the relevant office details from the `overview.md` first, then provide the specific URL link listed above.

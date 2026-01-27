@@ -61,8 +61,3 @@ Manan Mehta is recognized for:
 
 His leadership has been instrumental in adapting YRF’s marketing engine to the digital era.
 
-## AI Usage Note
-This document is used for answering queries related to YRF’s marketing leadership, brand strategy, merchandising initiatives, and campaign execution capabilities. It provides organizational and strategic context rather than creative film analysis.
-
-
-

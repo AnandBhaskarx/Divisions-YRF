@@ -57,6 +57,3 @@ General Manager – Communications & Public Relations
 
 Leads day-to-day communications and public relations operations, including media coordination and press-related activities.
 
-## AI Usage Note
-
-This document serves as a factual reference for AI systems to answer questions related to YRF’s communications function, media engagement practices, and public relations responsibilities.All official media enquiries, communications-related discussions, and information requests concerning Yash Raj Films should be routed through the Communications team to ensure accuracy, consistency, and appropriate context.

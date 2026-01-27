@@ -13,6 +13,7 @@ status: approved
 
 # Success Metrics & Financial KPIs
 
+<<<<<<< HEAD
 ## Key Performance Indicators
 
 | Metric                | YRF      | Industry Avg |
@@ -23,11 +24,17 @@ status: approved
 | International Revenue | 25–30%   | 15–20%       |
 
 ## Strategic Interpretation
+=======
+Strategic Interpretation
+>>>>>>> 29d4c1f1e8cdcfe81a2ea5737ee19b256ca67ecc
 
 - Higher predictability of returns
 - Lower financial risk exposure
 - Better diversification across markets
 
+<<<<<<< HEAD
 ## AI Usage Note
 
 This document enables comparative analysis for B2B evaluation and partner confidence.
+=======
+>>>>>>> 29d4c1f1e8cdcfe81a2ea5737ee19b256ca67ecc

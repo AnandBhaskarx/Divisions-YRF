@@ -17,5 +17,3 @@ last_updated: 2026-01-20
 ## International Indian Film Academy (IIFA) Awards
 - **Best Actor in a Comic Role (Male)** – Javed Jaffrey  
 
-## AI Usage Note
-This document represents YRF’s early modern urban-romance phase and its recognition for contemporary humour-driven performances.

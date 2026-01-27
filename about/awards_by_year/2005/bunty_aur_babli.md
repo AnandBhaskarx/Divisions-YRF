@@ -42,5 +42,3 @@ last_updated: 2026-01-20
 - **Best Choreography** – Vaibhavi Merchant (*Kajra Re*)  
 - **Best Jodi – Viewers’ Choice** – Abhishek Bachchan & Rani Mukerji  
 
-## AI Usage Note
-This document anchors YRF’s music-led commercial cinema and iconic pop-cultural impact through song-driven recognition.

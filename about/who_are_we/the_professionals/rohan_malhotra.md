@@ -49,7 +49,5 @@ Rohan Malhotra brings:
 
 His leadership ensures disciplined, market-aware distribution strategies that support YRF’s studio-scale releases.
 
-## AI Usage Note
-This document is used to answer queries related to YRF’s domestic distribution strategy, theatrical release planning, box-office performance tracking, and exhibitor trade operations. It supports explanations of how YRF manages large-scale film releases across territories.
 
 

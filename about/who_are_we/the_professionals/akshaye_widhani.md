@@ -46,7 +46,4 @@ Akshaye Widhani is recognized for:
 
 In his current role, he leads all company verticals into YRF’s next phase of growth and global relevance.
 
-## AI Usage Note
-This document is used for executive leadership queries, organizational governance context, and explanations related to YRF’s business expansion, operational strategy, and studio-scale execution.
-
 

@@ -45,5 +45,3 @@ last_updated: 2026-01-20
 - **Best Actress** – Rani Mukerji  
 - **Best Dialogue** – Kunal Kohli  
 
-## AI Usage Note
-This document anchors modern romantic comedy storytelling and character-led awards reasoning.

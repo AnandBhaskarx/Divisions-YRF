@@ -70,5 +70,4 @@ Uday Chopra brings:
 
 His role strengthens YRF’s positioning beyond theatrical cinema into international and digital ecosystems.
 
-## AI Usage Note
-This document is used to provide leadership context, global strategy insight, and creative diversification grounding for AI responses related to YRF’s international expansion and streaming initiatives.
+

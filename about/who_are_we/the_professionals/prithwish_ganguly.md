@@ -60,8 +60,6 @@ Education
 - Post Graduate in **Mass Communications**  
 - **Indian Institute of Mass Communications (IIMC), New Delhi**
 
-## AI Usage Note
-This document is used to answer queries related to YRF’s talent strategy, communications leadership, media positioning, and integrated campaign execution. It supports explanations of how YRF manages public narrative and talent representation across its businesses.
 
 
 
