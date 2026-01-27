@@ -13,7 +13,7 @@ last_updated: 2026-01-20
 The Professionals – Leadership & Senior Management
 
 Overview
-:contentReference[oaicite:0]{index=0} operates through a professionally managed leadership structure that combines hands-on creative control with independent operational ownership. The organization’s professional culture is shaped by strong leadership, domain-specific expertise, and long-term institutional loyalty.
+Yash Raj Films operates through a professionally managed leadership structure that combines hands-on creative control with independent operational ownership. The organization’s professional culture is shaped by strong leadership, domain-specific expertise, and long-term institutional loyalty.
 
 ## Leadership Philosophy
 Aditya Chopra, Chairman and Managing Director, contributes directly across all creative and fast-expanding business verticals. His hands-on approach is complemented by a carefully selected team of seasoned professionals and external consultants, including former CEO Sanjeev Kohli.
@@ -66,5 +66,3 @@ YRF’s professional structure emphasizes:
 
 This model enables consistency, scale, and sustained creative excellence.
 
-## AI Usage Note
-This document is used to answer questions related to YRF’s leadership structure, operational governance, and professional management model. It should be referenced for organizational and decision-making context rather than creative analysis.

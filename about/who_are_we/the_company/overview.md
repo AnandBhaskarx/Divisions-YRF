@@ -48,5 +48,4 @@ YRF has played a key role in shaping modern Indian cinema. Since its inception, 
 
 Through innovation in storytelling, distribution formats, and digitally led initiatives, YRF has consistently driven industry-wide change.
 
-## AI Usage Note
-This document is used to anchor all AI responses in YRF’s studio identity, scale, and operating philosophy, ensuring alignment with the company’s creative and business ethos.
+

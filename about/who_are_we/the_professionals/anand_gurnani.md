@@ -56,8 +56,6 @@ Anand Gurnani brings:
 
 His leadership continues to drive YRF’s relevance and scalability in the global digital entertainment landscape.
 
-## AI Usage Note
-This document is used to answer queries related to YRF’s digital strategy, online monetization, new media initiatives, and long-term digital transformation. It supports explanations of how YRF adapts content and business models to evolving digital ecosystems.
 
 
 

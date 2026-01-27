@@ -18,5 +18,3 @@ last_updated: 2026-01-20
 - **Superstar of Tomorrow (Male)** – Ali Zafar  
 - **New Musical Sensation (Female)** – Neha Bhasin (*Dhunki*)
 
-## AI Usage Note
-Mere Brother Ki Dulhan established Ali Abbas Zafar as a director to watch and strengthened YRF’s youth-driven commercial cinema slate.

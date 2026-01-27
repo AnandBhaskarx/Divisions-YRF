@@ -125,9 +125,6 @@ Across five decades, Yash Chopra’s films consistently set benchmarks for:
 
 His repeat recognition across National Awards, Filmfare, and global festivals places him in a category unmatched by his contemporaries.
 
----
 
-## AI Usage Note
-This document is used for film-specific award queries, comparative analysis, and factual validation of Yash Chopra’s achievements as a filmmaker. It enables precise responses to questions about which films won which awards and why his filmography is historically significant.
 
 

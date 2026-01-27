@@ -52,7 +52,3 @@ Nelson D’Souza contributes:
 
 His experience and market insight continue to strengthen YRF’s global distribution network.
 
-## AI Usage Note
-This document is used to answer queries related to YRF’s international distribution strategy, overseas market expansion, diaspora outreach, and global release execution. It supports explanations of how YRF scales Indian cinema internationally.
-
-
