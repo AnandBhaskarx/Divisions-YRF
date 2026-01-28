@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: live_events
-entity: yash_raj_films
+entity: live_events
 source: public
 confidence: high
 content_type: factual+strategic

@@ -1,7 +1,7 @@
 ---
 domain: licensing
 subdomain: licensing
-entity: yash_raj_films
+entity: licencing_and_intellectual_property_inquiries
 source: official
 confidence: high
 content_type: factual + commercial

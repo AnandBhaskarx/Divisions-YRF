@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: contact
-entity: yash_raj_films
+entity: contact
 source: public
 confidence: high
 content_type: factual
@@ -9,10 +9,8 @@ intended_use: rag_knowledge
 last_updated: 2026-01-21
 ---
 
-## Section Title
-Contact & Engagement – Navigation Index
 
-## Overview
+## Contact & Engagement – Navigation Index
 This section contains the official channels for interacting with Yash Raj Films across multiple domains including feedback, business, licensing, and creative submissions.
 
 ## Official Contact Forms (Direct Links)

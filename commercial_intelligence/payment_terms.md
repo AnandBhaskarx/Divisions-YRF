@@ -1,7 +1,7 @@
 ---
 domain: commercial_intelligence
 subdomain: payment_structure
-entity: yash_raj_films
+entity: payment_terms
 source: confidential
 confidence: high
 content_type: payment+cash_flow

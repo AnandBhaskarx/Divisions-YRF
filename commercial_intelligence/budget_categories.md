@@ -1,7 +1,7 @@
 ---
 domain: commercial_intelligence
 subdomain: cost_structure
-entity: yash_raj_films
+entity: budget_categories
 source: confidential
 confidence: high
 content_type: budget+cost_analysis

@@ -1,6 +1,6 @@
 ---
 domain: technology
-entity: yash_raj_films
+entity: technology_investment
 source: internal_strategy
 confidence: high
 content_type: strategic

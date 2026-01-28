@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: yrf_merchandising
-entity: yash_raj_films
+entity: merchandising
 source: public
 confidence: high
 content_type: factual+strategic

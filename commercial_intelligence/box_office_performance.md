@@ -1,7 +1,7 @@
 ---
 domain: commercial_intelligence
 subdomain: performance_analysis
-entity: yash_raj_films
+entity: box_office_performance
 source: confidential
 confidence: high
 content_type: box_office+financial_performance

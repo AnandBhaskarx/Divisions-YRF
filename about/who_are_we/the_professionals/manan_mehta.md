@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership_profile
 person: manan_mehta
 role: senior_vice_president_marketing_merchandising
-entity: yash_raj_films
+entity: manan_mehta
 source: public
 confidence: high
 content_type: biographical+strategic

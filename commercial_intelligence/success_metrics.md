@@ -1,7 +1,7 @@
 ---
 domain: commercial_intelligence
 subdomain: success_metrics
-entity: yash_raj_films
+entity: success_metrics and financial_KPIs
 source: confidential
 confidence: high
 content_type: kpi+performance_analysis

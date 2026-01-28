@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: digital_and_new_media
-entity: yash_raj_films
+entity: digital_and_new_media
 source: public
 confidence: high
 content_type: factual+strategic

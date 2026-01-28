@@ -1,7 +1,7 @@
 ---
 domain: commercial_intelligence
 subdomain: financial_overview
-entity: yash_raj_films
+entity: financial_overview
 source: confidential
 confidence: high
 content_type: financial+business_model

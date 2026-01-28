@@ -1,6 +1,6 @@
 ---
 domain: trust
-entity: yash_raj_films
+entity: trust_and_credebility
 source: internal_overview
 confidence: medium_high
 content_type: assurance

@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: contact
-entity: yash_raj_films
+entity: Contact Information
 source: public
 confidence: high
 content_type: factual

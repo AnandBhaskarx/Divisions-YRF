@@ -1,6 +1,6 @@
 ---
 domain: legal
-entity: yash_raj_films
+entity: contract_framework
 source: internal_policy
 confidence: high
 content_type: governance

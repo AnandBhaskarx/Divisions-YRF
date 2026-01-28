@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership+filmography+interviews+case_study
 person: aditya_chopra
 role: chairman_managing_director
-entity: yash_raj_films
+entity: aditya_chopra
 source: public+public_interviews+published_book
 confidence: high
 content_type: biographical+strategic+factual+strategic_thinking+strategic_case_study

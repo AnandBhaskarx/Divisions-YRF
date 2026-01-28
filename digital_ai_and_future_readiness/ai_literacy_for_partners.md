@@ -1,6 +1,6 @@
 ---
 domain: ai_literacy
-entity: yash_raj_films
+entity: ai_literacy_for_partners
 source: internal_strategy
 confidence: high
 content_type: educational + strategic

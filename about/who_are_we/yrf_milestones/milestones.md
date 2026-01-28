@@ -1,7 +1,7 @@
 ---
 domain: yrf_milestones
 subdomain: yrf_milestones
-entity: yash_raj_films
+entity: yash_raj_films_milestones
 source: public
 confidence: high
 content_type: historical+business

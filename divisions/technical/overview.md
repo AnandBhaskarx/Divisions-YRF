@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: technical
-entity: yash_raj_films
+entity: technical
 source: public
 confidence: high
 content_type: factual+strategic

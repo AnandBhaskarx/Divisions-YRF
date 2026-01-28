@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: yrf_marketing
-entity: yash_raj_films
+entity: marketing
 source: public
 confidence: high
 content_type: factual+strategic

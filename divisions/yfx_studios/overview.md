@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: yfx
-entity: yash_raj_films
+entity: yfx_studios
 source: public
 confidence: high
 content_type: factual+strategic

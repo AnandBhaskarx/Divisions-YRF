@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: ycf_testimonials
-entity: yash_raj_films
+entity: testimonnials
 source: public
 confidence: high
 content_type: factual

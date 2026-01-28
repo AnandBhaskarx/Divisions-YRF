@@ -1,7 +1,7 @@
 ---
 domain: about
 subdomain: leadership_profile_uday_chopra
-entity: yash_raj_films
+entity: uday_chopra
 source: public
 confidence: high
 content_type: biographical+strategic

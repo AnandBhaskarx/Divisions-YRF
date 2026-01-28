@@ -1,7 +1,7 @@
 ---
 domain: partnerships
 subdomain: brand_partnerships
-entity: yash_raj_films
+entity: brand_partnerships
 source: public + YRF Official Brand Solutions Portal
 confidence: high
 content_type: strategic+commercial

@@ -4,7 +4,7 @@ title: YRF Crisis Management & Contingency Framework
 domain: operational
 category: operational_capabilities
 subcategory: risk_management
-entity: yash_raj_films
+entity: crisis_management
 audience: b2b
 sensitivity: confidential
 content_type: procedural+response

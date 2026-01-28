@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership_profile
 person: prithwish_ganguly
 role: vice_president_talent_communications_strategy
-entity: yash_raj_films
+entity: prithwish_ganguly
 source: public
 confidence: high
 content_type: biographical+strategic

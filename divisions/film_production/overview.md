@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: film_production
-entity: yash_raj_films
+entity: film_production
 source: public
 confidence: high
 content_type: factual+strategic

@@ -2,7 +2,7 @@
 domain: about
 subdomain: filmography_actor
 person: uday_chopra
-entity: yash_raj_films
+entity: uday_chopra_filmography
 source: public
 confidence: high
 content_type: factual

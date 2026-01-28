@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership_profile
 person: anand_gurnani
 role: vice_president_digital_new_media
-entity: yash_raj_films
+entity: anand_gurnani
 source: public
 confidence: high
 content_type: biographical+strategic

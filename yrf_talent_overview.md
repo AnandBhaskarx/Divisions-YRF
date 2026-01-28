@@ -1,7 +1,7 @@
 ---
 domain: talent_management
 subdomain: operations
-entity: yash_raj_films
+entity: yrf_talent_and_strategic_management
 source: YRF_talent.pdf
 confidence: high
 content_type: factual+strategic

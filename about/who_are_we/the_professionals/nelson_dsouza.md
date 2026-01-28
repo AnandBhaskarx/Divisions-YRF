@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership_profile
 person: nelson_dsouza
 role: vice_president_international_distribution
-entity: yash_raj_films
+entity: nelson_dsouza
 source: public
 confidence: high
 content_type: biographical+strategic

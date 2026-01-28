@@ -1,6 +1,6 @@
 ---
 domain: digital_strategy
-entity: yash_raj_films
+entity: digital_content_strategy
 source: internal_strategy
 confidence: high
 content_type: strategic

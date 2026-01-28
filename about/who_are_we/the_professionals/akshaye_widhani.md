@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership_profile
 person: akshaye_widhani
 role: chief_executive_officer
-entity: yash_raj_films
+entity: akshaye_widhani
 source: public
 confidence: high
 content_type: biographical+strategic

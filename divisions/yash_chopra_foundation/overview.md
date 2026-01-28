@@ -1,7 +1,7 @@
 ---
 domain: divisions
 subdomain: yash_chopra_foundation
-entity: yash_raj_films
+entity: yash_chopra_foundation
 source: public
 confidence: high
 content_type: factual+strategic

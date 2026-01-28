@@ -1,7 +1,7 @@
 ---
 domain: about
 subdomain: the_professionals
-entity: yash_raj_films
+entity: Leadership & Senior Management
 source: public
 confidence: high
 content_type: organizational

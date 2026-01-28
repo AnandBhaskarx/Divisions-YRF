@@ -3,7 +3,7 @@ domain: about
 subdomain: leadership_profile
 person: rohan_malhotra
 role: vice_president_distribution
-entity: yash_raj_films
+entity: rohan_malhotra
 source: public
 confidence: high
 content_type: biographical+strategic

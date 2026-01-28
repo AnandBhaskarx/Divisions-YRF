@@ -2,7 +2,7 @@
 domain: about
 subdomain: filmography_director
 person: yash_chopra
-entity: yash_raj_films
+entity: yash_chopra_filmography
 source: public
 confidence: high
 content_type: factual+chronological

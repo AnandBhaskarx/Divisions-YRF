@@ -2,7 +2,7 @@
 domain: about
 subdomain: leadership_legacy
 person: yash_chopra
-entity: yash_raj_films
+entity: yash_chopra
 source: public
 confidence: high
 content_type: biographical+strategic

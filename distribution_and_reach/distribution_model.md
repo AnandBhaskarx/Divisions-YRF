@@ -1,7 +1,7 @@
 ---
 domain: distribution
 subdomain: model
-entity: yash_raj_films
+entity: distribution_model
 source: YRF_BUSINESS.pdf
 confidence: high
 content_type: factual+strategic

@@ -1,7 +1,7 @@
 ---
 domain: business
 subdomain: operations_production_pipeline
-entity: yash_raj_films
+entity: operations_production_pipeline
 source: public
 confidence: high
 content_type: factual+strategic

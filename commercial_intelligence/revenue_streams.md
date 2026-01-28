@@ -1,7 +1,7 @@
 ---
 domain: commercial_intelligence
 subdomain: revenue_model
-entity: yash_raj_films
+entity: revenue_streams
 source: confidential
 confidence: high
 content_type: revenue+monetization

@@ -1,7 +1,7 @@
 ---
 domain: business
 subdomain: strategies
-entity: yash_raj_films
+entity: strategic_areas_covered
 source: public
 confidence: high
 content_type: factual+strategic
