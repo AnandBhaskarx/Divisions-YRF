@@ -1,6 +1,6 @@
 ---
 document_id: ops_007
-title: YRF Crisis Management & Contingency Framework
+title: YRF operational capabilities and risk management
 domain: operational
 category: operational_capabilities
 subcategory: risk_management
